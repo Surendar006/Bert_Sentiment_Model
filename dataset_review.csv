@@ -1,0 +1,971 @@
+Customer ID,Product ID,Product Name,Review,Positive Aspect Terms,Negative Aspect Terms,Sentiment
+CUST00769,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its camera quality, though its limited ports bothers me sometimes.",camera quality,limited ports,Positive
+CUST01386,PROD001,Apple iPhone 15 Pro Max,"I really love the speed of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its size.",speed,size,Positive
+CUST01259,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its storage capacity, but the short cable needs improvement.",storage capacity,short cable,Positive
+CUST00880,PROD001,Apple iPhone 15 Pro Max,"While the durability of the Apple iPhone 15 Pro Max impressed me, the price was underwhelming.",durability,price,Mixed
+CUST01667,PROD001,Apple iPhone 15 Pro Max,"The design on the Apple iPhone 15 Pro Max is outstanding, although the short cable could be better.",design,short cable,Negative
+CUST01765,PROD001,Apple iPhone 15 Pro Max,"While the build quality of the Apple iPhone 15 Pro Max impressed me, the weight was underwhelming.",build quality,weight,Mixed
+CUST00472,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its storage capacity, but the short cable needs improvement.",storage capacity,short cable,Positive
+CUST01277,PROD001,Apple iPhone 15 Pro Max,"While the speed of the Apple iPhone 15 Pro Max impressed me, the limited ports was underwhelming.",speed,limited ports,Positive
+CUST00127,PROD001,Apple iPhone 15 Pro Max,"While the storage capacity of the Apple iPhone 15 Pro Max impressed me, the fragile screen was underwhelming.",storage capacity,fragile screen,Positive
+CUST01868,PROD001,Apple iPhone 15 Pro Max,"While the performance of the Apple iPhone 15 Pro Max impressed me, the weight was underwhelming.",performance,weight,Positive
+CUST00361,PROD001,Apple iPhone 15 Pro Max,"The sound clarity on the Apple iPhone 15 Pro Max is outstanding, although the software bugs could be better.",sound clarity,software bugs,Positive
+CUST00179,PROD001,Apple iPhone 15 Pro Max,"I really love the performance of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its price.",performance,price,Positive
+CUST00907,PROD001,Apple iPhone 15 Pro Max,"I really love the storage capacity of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its software bugs.",storage capacity,software bugs,Mixed
+CUST01809,PROD001,Apple iPhone 15 Pro Max,"While the display of the Apple iPhone 15 Pro Max impressed me, the fragile screen was underwhelming.",display,fragile screen,Positive
+CUST01195,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its performance, though its price bothers me sometimes.",performance,price,Mixed
+CUST01950,PROD001,Apple iPhone 15 Pro Max,"I really love the design of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its overheating.",design,overheating,Positive
+CUST01535,PROD001,Apple iPhone 15 Pro Max,"The display on the Apple iPhone 15 Pro Max is outstanding, although the slow updates could be better.",display,slow updates,Positive
+CUST01874,PROD001,Apple iPhone 15 Pro Max,"While the performance of the Apple iPhone 15 Pro Max impressed me, the slow updates was underwhelming.",performance,slow updates,Negative
+CUST00129,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its display, but the weight needs improvement.",display,weight,Positive
+CUST01901,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its build quality, though its limited ports bothers me sometimes.",build quality,limited ports,Positive
+CUST00878,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its storage capacity, though its battery drain bothers me sometimes.",storage capacity,battery drain,Negative
+CUST01584,PROD001,Apple iPhone 15 Pro Max,"The battery life on the Apple iPhone 15 Pro Max is outstanding, although the fragile screen could be better.",battery life,fragile screen,Mixed
+CUST01999,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its sound clarity, but the slow updates needs improvement.",sound clarity,slow updates,Positive
+CUST01613,PROD001,Apple iPhone 15 Pro Max,"While the sound clarity of the Apple iPhone 15 Pro Max impressed me, the software bugs was underwhelming.",sound clarity,software bugs,Negative
+CUST00505,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its display, but the short cable needs improvement.",display,short cable,Positive
+CUST01825,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its design, though its battery drain bothers me sometimes.",design,battery drain,Mixed
+CUST01274,PROD001,Apple iPhone 15 Pro Max,"The performance on the Apple iPhone 15 Pro Max is outstanding, although the price could be better.",performance,price,Positive
+CUST00723,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its durability, but the price needs improvement.",durability,price,Mixed
+CUST02051,PROD001,Apple iPhone 15 Pro Max,"The design on the Apple iPhone 15 Pro Max is outstanding, although the software bugs could be better.",design,software bugs,Mixed
+CUST01119,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its display, though its slow updates bothers me sometimes.",display,slow updates,Positive
+CUST00463,PROD001,Apple iPhone 15 Pro Max,"The storage capacity on the Apple iPhone 15 Pro Max is outstanding, although the weight could be better.",storage capacity,weight,Positive
+CUST01506,PROD001,Apple iPhone 15 Pro Max,"The battery life on the Apple iPhone 15 Pro Max is outstanding, although the weight could be better.",battery life,weight,Mixed
+CUST02065,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its ease of use, though its heating issues bothers me sometimes.",ease of use,heating issues,Positive
+CUST00280,PROD001,Apple iPhone 15 Pro Max,"While the durability of the Apple iPhone 15 Pro Max impressed me, the software bugs was underwhelming.",durability,software bugs,Mixed
+CUST01415,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its sound clarity, but the slow updates needs improvement.",sound clarity,slow updates,Positive
+CUST00794,PROD001,Apple iPhone 15 Pro Max,"I really love the speed of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its heating issues.",speed,heating issues,Mixed
+CUST00552,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its durability, but the slow updates needs improvement.",durability,slow updates,Positive
+CUST01979,PROD001,Apple iPhone 15 Pro Max,"The ease of use on the Apple iPhone 15 Pro Max is outstanding, although the software bugs could be better.",ease of use,software bugs,Positive
+CUST01711,PROD001,Apple iPhone 15 Pro Max,"I really love the speed of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its slow updates.",speed,slow updates,Positive
+CUST00275,PROD001,Apple iPhone 15 Pro Max,"While the durability of the Apple iPhone 15 Pro Max impressed me, the limited ports was underwhelming.",durability,limited ports,Mixed
+CUST00334,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its build quality, but the weight needs improvement.",build quality,weight,Positive
+CUST00869,PROD001,Apple iPhone 15 Pro Max,"While the durability of the Apple iPhone 15 Pro Max impressed me, the fragile screen was underwhelming.",durability,fragile screen,Positive
+CUST00626,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its camera quality, though its short cable bothers me sometimes.",camera quality,short cable,Positive
+CUST01288,PROD001,Apple iPhone 15 Pro Max,"I really love the design of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its short cable.",design,short cable,Positive
+CUST00950,PROD001,Apple iPhone 15 Pro Max,"I really love the design of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its software bugs.",design,software bugs,Mixed
+CUST00976,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its design, though its fragile screen bothers me sometimes.",design,fragile screen,Negative
+CUST00565,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its storage capacity, though its slow updates bothers me sometimes.",storage capacity,slow updates,Negative
+CUST01232,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its design, though its battery drain bothers me sometimes.",design,battery drain,Positive
+CUST01722,PROD001,Apple iPhone 15 Pro Max,"I really love the camera quality of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its limited ports.",camera quality,limited ports,Mixed
+CUST01507,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its durability, but the size needs improvement.",durability,size,Positive
+CUST00833,PROD001,Apple iPhone 15 Pro Max,"I really love the ease of use of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its price.",ease of use,price,Mixed
+CUST00164,PROD001,Apple iPhone 15 Pro Max,"While the battery life of the Apple iPhone 15 Pro Max impressed me, the overheating was underwhelming.",battery life,overheating,Mixed
+CUST01427,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its build quality, but the size needs improvement.",build quality,size,Positive
+CUST00940,PROD001,Apple iPhone 15 Pro Max,"I really love the performance of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its short cable.",performance,short cable,Positive
+CUST01753,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its performance, though its limited ports bothers me sometimes.",performance,limited ports,Negative
+CUST01008,PROD001,Apple iPhone 15 Pro Max,"The display on the Apple iPhone 15 Pro Max is outstanding, although the size could be better.",display,size,Positive
+CUST00620,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its camera quality, but the short cable needs improvement.",camera quality,short cable,Positive
+CUST01414,PROD001,Apple iPhone 15 Pro Max,"While the storage capacity of the Apple iPhone 15 Pro Max impressed me, the overheating was underwhelming.",storage capacity,overheating,Positive
+CUST01054,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its camera quality, though its slow updates bothers me sometimes.",camera quality,slow updates,Positive
+CUST00979,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its storage capacity, but the price needs improvement.",storage capacity,price,Positive
+CUST00690,PROD001,Apple iPhone 15 Pro Max,"I really love the sound clarity of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its price.",sound clarity,price,Negative
+CUST01103,PROD001,Apple iPhone 15 Pro Max,"While the camera quality of the Apple iPhone 15 Pro Max impressed me, the price was underwhelming.",camera quality,price,Positive
+CUST00328,PROD001,Apple iPhone 15 Pro Max,"The build quality on the Apple iPhone 15 Pro Max is outstanding, although the software bugs could be better.",build quality,software bugs,Negative
+CUST01130,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its storage capacity, but the fragile screen needs improvement.",storage capacity,fragile screen,Positive
+CUST01053,PROD001,Apple iPhone 15 Pro Max,"I really love the display of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its price.",display,price,Mixed
+CUST01438,PROD001,Apple iPhone 15 Pro Max,"The durability on the Apple iPhone 15 Pro Max is outstanding, although the size could be better.",durability,size,Positive
+CUST00277,PROD001,Apple iPhone 15 Pro Max,"I really love the ease of use of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its overheating.",ease of use,overheating,Negative
+CUST01540,PROD001,Apple iPhone 15 Pro Max,"I really love the durability of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its fragile screen.",durability,fragile screen,Mixed
+CUST00258,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its speed, though its size bothers me sometimes.",speed,size,Positive
+CUST01994,PROD001,Apple iPhone 15 Pro Max,"While the camera quality of the Apple iPhone 15 Pro Max impressed me, the fragile screen was underwhelming.",camera quality,fragile screen,Mixed
+CUST01530,PROD001,Apple iPhone 15 Pro Max,"While the build quality of the Apple iPhone 15 Pro Max impressed me, the price was underwhelming.",build quality,price,Negative
+CUST01945,PROD001,Apple iPhone 15 Pro Max,"While the durability of the Apple iPhone 15 Pro Max impressed me, the fragile screen was underwhelming.",durability,fragile screen,Positive
+CUST01533,PROD001,Apple iPhone 15 Pro Max,"The durability on the Apple iPhone 15 Pro Max is outstanding, although the heating issues could be better.",durability,heating issues,Positive
+CUST01139,PROD001,Apple iPhone 15 Pro Max,"The ease of use on the Apple iPhone 15 Pro Max is outstanding, although the overheating could be better.",ease of use,overheating,Negative
+CUST01805,PROD001,Apple iPhone 15 Pro Max,"I really love the storage capacity of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its limited ports.",storage capacity,limited ports,Positive
+CUST00172,PROD001,Apple iPhone 15 Pro Max,"While the sound clarity of the Apple iPhone 15 Pro Max impressed me, the overheating was underwhelming.",sound clarity,overheating,Positive
+CUST01448,PROD001,Apple iPhone 15 Pro Max,"The display on the Apple iPhone 15 Pro Max is outstanding, although the software bugs could be better.",display,software bugs,Positive
+CUST01270,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its sound clarity, though its slow updates bothers me sometimes.",sound clarity,slow updates,Positive
+CUST01305,PROD001,Apple iPhone 15 Pro Max,"While the design of the Apple iPhone 15 Pro Max impressed me, the weight was underwhelming.",design,weight,Mixed
+CUST01430,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its build quality, though its slow updates bothers me sometimes.",build quality,slow updates,Positive
+CUST00927,PROD001,Apple iPhone 15 Pro Max,"I really love the ease of use of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its limited ports.",ease of use,limited ports,Mixed
+CUST01075,PROD001,Apple iPhone 15 Pro Max,"I really love the battery life of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its short cable.",battery life,short cable,Negative
+CUST01553,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its storage capacity, though its software bugs bothers me sometimes.",storage capacity,software bugs,Positive
+CUST00345,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its durability, though its price bothers me sometimes.",durability,price,Positive
+CUST01768,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its display, though its heating issues bothers me sometimes.",display,heating issues,Positive
+CUST01511,PROD001,Apple iPhone 15 Pro Max,"The ease of use on the Apple iPhone 15 Pro Max is outstanding, although the size could be better.",ease of use,size,Positive
+CUST00200,PROD001,Apple iPhone 15 Pro Max,"The sound clarity on the Apple iPhone 15 Pro Max is outstanding, although the heating issues could be better.",sound clarity,heating issues,Negative
+CUST01521,PROD001,Apple iPhone 15 Pro Max,"I really love the camera quality of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its size.",camera quality,size,Positive
+CUST00419,PROD001,Apple iPhone 15 Pro Max,"I really love the sound clarity of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its short cable.",sound clarity,short cable,Positive
+CUST00485,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its speed, though its size bothers me sometimes.",speed,size,Positive
+CUST01483,PROD001,Apple iPhone 15 Pro Max,"I enjoy using the Apple iPhone 15 Pro Max because of its battery life, though its slow updates bothers me sometimes.",battery life,slow updates,Positive
+CUST00742,PROD001,Apple iPhone 15 Pro Max,"The sound clarity on the Apple iPhone 15 Pro Max is outstanding, although the limited ports could be better.",sound clarity,limited ports,Negative
+CUST01558,PROD001,Apple iPhone 15 Pro Max,"The performance on the Apple iPhone 15 Pro Max is outstanding, although the overheating could be better.",performance,overheating,Mixed
+CUST01776,PROD001,Apple iPhone 15 Pro Max,"While the camera quality of the Apple iPhone 15 Pro Max impressed me, the overheating was underwhelming.",camera quality,overheating,Positive
+CUST02013,PROD001,Apple iPhone 15 Pro Max,"I really love the build quality of my Apple iPhone 15 Pro Max, but I'm a bit disappointed with its software bugs.",build quality,software bugs,Positive
+CUST02026,PROD001,Apple iPhone 15 Pro Max,"While the battery life of the Apple iPhone 15 Pro Max impressed me, the size was underwhelming.",battery life,size,Positive
+CUST00876,PROD001,Apple iPhone 15 Pro Max,"The durability on the Apple iPhone 15 Pro Max is outstanding, although the slow updates could be better.",durability,slow updates,Mixed
+CUST00847,PROD001,Apple iPhone 15 Pro Max,"While the battery life of the Apple iPhone 15 Pro Max impressed me, the price was underwhelming.",battery life,price,Positive
+CUST00205,PROD001,Apple iPhone 15 Pro Max,"My experience with the Apple iPhone 15 Pro Max has been mostly great due to its display, but the battery drain needs improvement.",display,battery drain,Mixed
+CUST00658,PROD002,Samsung Galaxy S24 Ultra,"The build quality on the Samsung Galaxy S24 Ultra is outstanding, although the software bugs could be better.",build quality,software bugs,Positive
+CUST01956,PROD002,Samsung Galaxy S24 Ultra,"I really love the ease of use of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its weight.",ease of use,weight,Positive
+CUST01739,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its speed, though its overheating bothers me sometimes.",speed,overheating,Negative
+CUST01844,PROD002,Samsung Galaxy S24 Ultra,"I really love the storage capacity of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its slow updates.",storage capacity,slow updates,Positive
+CUST01143,PROD002,Samsung Galaxy S24 Ultra,"While the design of the Samsung Galaxy S24 Ultra impressed me, the fragile screen was underwhelming.",design,fragile screen,Negative
+CUST00261,PROD002,Samsung Galaxy S24 Ultra,"I really love the performance of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its limited ports.",performance,limited ports,Mixed
+CUST01249,PROD002,Samsung Galaxy S24 Ultra,"While the storage capacity of the Samsung Galaxy S24 Ultra impressed me, the heating issues was underwhelming.",storage capacity,heating issues,Positive
+CUST01205,PROD002,Samsung Galaxy S24 Ultra,"While the storage capacity of the Samsung Galaxy S24 Ultra impressed me, the size was underwhelming.",storage capacity,size,Positive
+CUST01446,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its performance, but the fragile screen needs improvement.",performance,fragile screen,Positive
+CUST00168,PROD002,Samsung Galaxy S24 Ultra,"The design on the Samsung Galaxy S24 Ultra is outstanding, although the overheating could be better.",design,overheating,Positive
+CUST00404,PROD002,Samsung Galaxy S24 Ultra,"While the sound clarity of the Samsung Galaxy S24 Ultra impressed me, the weight was underwhelming.",sound clarity,weight,Negative
+CUST01565,PROD002,Samsung Galaxy S24 Ultra,"While the build quality of the Samsung Galaxy S24 Ultra impressed me, the limited ports was underwhelming.",build quality,limited ports,Positive
+CUST00603,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its storage capacity, though its limited ports bothers me sometimes.",storage capacity,limited ports,Negative
+CUST02091,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its performance, though its slow updates bothers me sometimes.",performance,slow updates,Positive
+CUST01076,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its storage capacity, but the overheating needs improvement.",storage capacity,overheating,Negative
+CUST01405,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its ease of use, but the fragile screen needs improvement.",ease of use,fragile screen,Positive
+CUST01422,PROD002,Samsung Galaxy S24 Ultra,"The build quality on the Samsung Galaxy S24 Ultra is outstanding, although the software bugs could be better.",build quality,software bugs,Positive
+CUST00820,PROD002,Samsung Galaxy S24 Ultra,"I really love the display of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its overheating.",display,overheating,Mixed
+CUST00193,PROD002,Samsung Galaxy S24 Ultra,"The build quality on the Samsung Galaxy S24 Ultra is outstanding, although the heating issues could be better.",build quality,heating issues,Positive
+CUST01767,PROD002,Samsung Galaxy S24 Ultra,"I really love the battery life of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its fragile screen.",battery life,fragile screen,Positive
+CUST00305,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its display, though its price bothers me sometimes.",display,price,Positive
+CUST01245,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its design, though its limited ports bothers me sometimes.",design,limited ports,Negative
+CUST00470,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its battery life, though its software bugs bothers me sometimes.",battery life,software bugs,Negative
+CUST01231,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its storage capacity, but the slow updates needs improvement.",storage capacity,slow updates,Positive
+CUST00591,PROD002,Samsung Galaxy S24 Ultra,"The display on the Samsung Galaxy S24 Ultra is outstanding, although the size could be better.",display,size,Positive
+CUST00537,PROD002,Samsung Galaxy S24 Ultra,"I really love the battery life of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its slow updates.",battery life,slow updates,Negative
+CUST01495,PROD002,Samsung Galaxy S24 Ultra,"While the battery life of the Samsung Galaxy S24 Ultra impressed me, the software bugs was underwhelming.",battery life,software bugs,Positive
+CUST00195,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its display, though its software bugs bothers me sometimes.",display,software bugs,Positive
+CUST00449,PROD002,Samsung Galaxy S24 Ultra,"The design on the Samsung Galaxy S24 Ultra is outstanding, although the overheating could be better.",design,overheating,Positive
+CUST00230,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its battery life, but the price needs improvement.",battery life,price,Mixed
+CUST00966,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its storage capacity, but the price needs improvement.",storage capacity,price,Mixed
+CUST00321,PROD002,Samsung Galaxy S24 Ultra,"I really love the performance of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its software bugs.",performance,software bugs,Positive
+CUST00544,PROD002,Samsung Galaxy S24 Ultra,"I really love the storage capacity of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its price.",storage capacity,price,Mixed
+CUST01524,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its sound clarity, though its price bothers me sometimes.",sound clarity,price,Positive
+CUST02075,PROD002,Samsung Galaxy S24 Ultra,"While the speed of the Samsung Galaxy S24 Ultra impressed me, the short cable was underwhelming.",speed,short cable,Positive
+CUST01185,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its display, though its price bothers me sometimes.",display,price,Mixed
+CUST00201,PROD002,Samsung Galaxy S24 Ultra,"The design on the Samsung Galaxy S24 Ultra is outstanding, although the heating issues could be better.",design,heating issues,Positive
+CUST01318,PROD002,Samsung Galaxy S24 Ultra,"While the speed of the Samsung Galaxy S24 Ultra impressed me, the battery drain was underwhelming.",speed,battery drain,Mixed
+CUST00842,PROD002,Samsung Galaxy S24 Ultra,"While the durability of the Samsung Galaxy S24 Ultra impressed me, the size was underwhelming.",durability,size,Mixed
+CUST00397,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its design, but the heating issues needs improvement.",design,heating issues,Mixed
+CUST01322,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its display, but the weight needs improvement.",display,weight,Mixed
+CUST01922,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its battery life, though its overheating bothers me sometimes.",battery life,overheating,Negative
+CUST00562,PROD002,Samsung Galaxy S24 Ultra,"The ease of use on the Samsung Galaxy S24 Ultra is outstanding, although the fragile screen could be better.",ease of use,fragile screen,Positive
+CUST00673,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its display, but the heating issues needs improvement.",display,heating issues,Positive
+CUST00896,PROD002,Samsung Galaxy S24 Ultra,"While the performance of the Samsung Galaxy S24 Ultra impressed me, the price was underwhelming.",performance,price,Positive
+CUST01989,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its design, but the overheating needs improvement.",design,overheating,Positive
+CUST02086,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its display, but the heating issues needs improvement.",display,heating issues,Positive
+CUST01191,PROD002,Samsung Galaxy S24 Ultra,"I really love the camera quality of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its price.",camera quality,price,Mixed
+CUST00871,PROD002,Samsung Galaxy S24 Ultra,"I really love the speed of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its software bugs.",speed,software bugs,Mixed
+CUST00519,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its design, but the weight needs improvement.",design,weight,Negative
+CUST01149,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its design, but the size needs improvement.",design,size,Mixed
+CUST00529,PROD002,Samsung Galaxy S24 Ultra,"While the ease of use of the Samsung Galaxy S24 Ultra impressed me, the software bugs was underwhelming.",ease of use,software bugs,Positive
+CUST00831,PROD002,Samsung Galaxy S24 Ultra,"I really love the design of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its weight.",design,weight,Negative
+CUST01493,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its storage capacity, though its battery drain bothers me sometimes.",storage capacity,battery drain,Negative
+CUST01799,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its battery life, though its software bugs bothers me sometimes.",battery life,software bugs,Positive
+CUST02049,PROD002,Samsung Galaxy S24 Ultra,"I really love the camera quality of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its slow updates.",camera quality,slow updates,Positive
+CUST00238,PROD002,Samsung Galaxy S24 Ultra,"I really love the ease of use of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its software bugs.",ease of use,software bugs,Positive
+CUST01335,PROD002,Samsung Galaxy S24 Ultra,"The display on the Samsung Galaxy S24 Ultra is outstanding, although the slow updates could be better.",display,slow updates,Positive
+CUST00306,PROD002,Samsung Galaxy S24 Ultra,"The durability on the Samsung Galaxy S24 Ultra is outstanding, although the price could be better.",durability,price,Mixed
+CUST01353,PROD002,Samsung Galaxy S24 Ultra,"While the camera quality of the Samsung Galaxy S24 Ultra impressed me, the overheating was underwhelming.",camera quality,overheating,Positive
+CUST01902,PROD002,Samsung Galaxy S24 Ultra,"The durability on the Samsung Galaxy S24 Ultra is outstanding, although the price could be better.",durability,price,Positive
+CUST00248,PROD002,Samsung Galaxy S24 Ultra,"While the storage capacity of the Samsung Galaxy S24 Ultra impressed me, the battery drain was underwhelming.",storage capacity,battery drain,Negative
+CUST00772,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its build quality, though its heating issues bothers me sometimes.",build quality,heating issues,Positive
+CUST00931,PROD002,Samsung Galaxy S24 Ultra,"While the battery life of the Samsung Galaxy S24 Ultra impressed me, the slow updates was underwhelming.",battery life,slow updates,Positive
+CUST01250,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its speed, though its heating issues bothers me sometimes.",speed,heating issues,Positive
+CUST00911,PROD002,Samsung Galaxy S24 Ultra,"While the display of the Samsung Galaxy S24 Ultra impressed me, the overheating was underwhelming.",display,overheating,Positive
+CUST01327,PROD002,Samsung Galaxy S24 Ultra,"I really love the display of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its overheating.",display,overheating,Mixed
+CUST00909,PROD002,Samsung Galaxy S24 Ultra,"I really love the performance of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its software bugs.",performance,software bugs,Positive
+CUST00268,PROD002,Samsung Galaxy S24 Ultra,"While the storage capacity of the Samsung Galaxy S24 Ultra impressed me, the heating issues was underwhelming.",storage capacity,heating issues,Mixed
+CUST01251,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its ease of use, though its overheating bothers me sometimes.",ease of use,overheating,Positive
+CUST01537,PROD002,Samsung Galaxy S24 Ultra,"The battery life on the Samsung Galaxy S24 Ultra is outstanding, although the weight could be better.",battery life,weight,Negative
+CUST00706,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its display, but the slow updates needs improvement.",display,slow updates,Mixed
+CUST01472,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its build quality, though its limited ports bothers me sometimes.",build quality,limited ports,Positive
+CUST00185,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its speed, though its weight bothers me sometimes.",speed,weight,Mixed
+CUST01477,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its design, but the size needs improvement.",design,size,Positive
+CUST01953,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its camera quality, but the fragile screen needs improvement.",camera quality,fragile screen,Mixed
+CUST01200,PROD002,Samsung Galaxy S24 Ultra,"The camera quality on the Samsung Galaxy S24 Ultra is outstanding, although the price could be better.",camera quality,price,Positive
+CUST00795,PROD002,Samsung Galaxy S24 Ultra,"The display on the Samsung Galaxy S24 Ultra is outstanding, although the price could be better.",display,price,Mixed
+CUST00978,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its build quality, though its software bugs bothers me sometimes.",build quality,software bugs,Positive
+CUST00781,PROD002,Samsung Galaxy S24 Ultra,"I really love the build quality of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its size.",build quality,size,Positive
+CUST01124,PROD002,Samsung Galaxy S24 Ultra,"The design on the Samsung Galaxy S24 Ultra is outstanding, although the price could be better.",design,price,Positive
+CUST00758,PROD002,Samsung Galaxy S24 Ultra,"The storage capacity on the Samsung Galaxy S24 Ultra is outstanding, although the price could be better.",storage capacity,price,Mixed
+CUST01839,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its design, but the overheating needs improvement.",design,overheating,Positive
+CUST01833,PROD002,Samsung Galaxy S24 Ultra,"I really love the durability of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its slow updates.",durability,slow updates,Mixed
+CUST00149,PROD002,Samsung Galaxy S24 Ultra,"The battery life on the Samsung Galaxy S24 Ultra is outstanding, although the fragile screen could be better.",battery life,fragile screen,Positive
+CUST00541,PROD002,Samsung Galaxy S24 Ultra,"I really love the speed of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its overheating.",speed,overheating,Mixed
+CUST00612,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its build quality, but the fragile screen needs improvement.",build quality,fragile screen,Positive
+CUST01002,PROD002,Samsung Galaxy S24 Ultra,"The performance on the Samsung Galaxy S24 Ultra is outstanding, although the battery drain could be better.",performance,battery drain,Mixed
+CUST01668,PROD002,Samsung Galaxy S24 Ultra,"I really love the ease of use of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its software bugs.",ease of use,software bugs,Negative
+CUST01126,PROD002,Samsung Galaxy S24 Ultra,"While the display of the Samsung Galaxy S24 Ultra impressed me, the overheating was underwhelming.",display,overheating,Positive
+CUST00806,PROD002,Samsung Galaxy S24 Ultra,"My experience with the Samsung Galaxy S24 Ultra has been mostly great due to its speed, but the short cable needs improvement.",speed,short cable,Positive
+CUST00269,PROD002,Samsung Galaxy S24 Ultra,"The sound clarity on the Samsung Galaxy S24 Ultra is outstanding, although the heating issues could be better.",sound clarity,heating issues,Positive
+CUST00363,PROD002,Samsung Galaxy S24 Ultra,"The design on the Samsung Galaxy S24 Ultra is outstanding, although the slow updates could be better.",design,slow updates,Positive
+CUST00246,PROD002,Samsung Galaxy S24 Ultra,"While the performance of the Samsung Galaxy S24 Ultra impressed me, the overheating was underwhelming.",performance,overheating,Positive
+CUST01727,PROD002,Samsung Galaxy S24 Ultra,"I enjoy using the Samsung Galaxy S24 Ultra because of its ease of use, though its battery drain bothers me sometimes.",ease of use,battery drain,Mixed
+CUST00216,PROD002,Samsung Galaxy S24 Ultra,"The sound clarity on the Samsung Galaxy S24 Ultra is outstanding, although the short cable could be better.",sound clarity,short cable,Positive
+CUST01271,PROD002,Samsung Galaxy S24 Ultra,"The performance on the Samsung Galaxy S24 Ultra is outstanding, although the battery drain could be better.",performance,battery drain,Positive
+CUST00344,PROD002,Samsung Galaxy S24 Ultra,"I really love the storage capacity of my Samsung Galaxy S24 Ultra, but I'm a bit disappointed with its short cable.",storage capacity,short cable,Mixed
+CUST01611,PROD003,Sony WH-1000XM5 Headphones,"I really love the design of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its size.",design,size,Mixed
+CUST00680,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its storage capacity, though its price bothers me sometimes.",storage capacity,price,Positive
+CUST01089,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its ease of use, though its weight bothers me sometimes.",ease of use,weight,Positive
+CUST01614,PROD003,Sony WH-1000XM5 Headphones,"While the ease of use of the Sony WH-1000XM5 Headphones impressed me, the short cable was underwhelming.",ease of use,short cable,Negative
+CUST01943,PROD003,Sony WH-1000XM5 Headphones,"I really love the speed of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its size.",speed,size,Mixed
+CUST01433,PROD003,Sony WH-1000XM5 Headphones,"While the sound clarity of the Sony WH-1000XM5 Headphones impressed me, the battery drain was underwhelming.",sound clarity,battery drain,Mixed
+CUST01015,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its build quality, though its heating issues bothers me sometimes.",build quality,heating issues,Mixed
+CUST01140,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its sound clarity, but the overheating needs improvement.",sound clarity,overheating,Negative
+CUST00647,PROD003,Sony WH-1000XM5 Headphones,"While the storage capacity of the Sony WH-1000XM5 Headphones impressed me, the fragile screen was underwhelming.",storage capacity,fragile screen,Positive
+CUST01588,PROD003,Sony WH-1000XM5 Headphones,"I really love the speed of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its size.",speed,size,Positive
+CUST01884,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its build quality, though its price bothers me sometimes.",build quality,price,Positive
+CUST01562,PROD003,Sony WH-1000XM5 Headphones,"I really love the durability of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its battery drain.",durability,battery drain,Mixed
+CUST00381,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its speed, though its overheating bothers me sometimes.",speed,overheating,Positive
+CUST01238,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its ease of use, though its limited ports bothers me sometimes.",ease of use,limited ports,Positive
+CUST00442,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its storage capacity, but the limited ports needs improvement.",storage capacity,limited ports,Mixed
+CUST01168,PROD003,Sony WH-1000XM5 Headphones,"While the performance of the Sony WH-1000XM5 Headphones impressed me, the software bugs was underwhelming.",performance,software bugs,Positive
+CUST00879,PROD003,Sony WH-1000XM5 Headphones,"While the ease of use of the Sony WH-1000XM5 Headphones impressed me, the weight was underwhelming.",ease of use,weight,Negative
+CUST00250,PROD003,Sony WH-1000XM5 Headphones,"The durability on the Sony WH-1000XM5 Headphones is outstanding, although the software bugs could be better.",durability,software bugs,Positive
+CUST01388,PROD003,Sony WH-1000XM5 Headphones,"I really love the performance of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its size.",performance,size,Positive
+CUST02094,PROD003,Sony WH-1000XM5 Headphones,"While the build quality of the Sony WH-1000XM5 Headphones impressed me, the battery drain was underwhelming.",build quality,battery drain,Positive
+CUST01160,PROD003,Sony WH-1000XM5 Headphones,"The performance on the Sony WH-1000XM5 Headphones is outstanding, although the overheating could be better.",performance,overheating,Positive
+CUST00412,PROD003,Sony WH-1000XM5 Headphones,"The design on the Sony WH-1000XM5 Headphones is outstanding, although the battery drain could be better.",design,battery drain,Positive
+CUST01915,PROD003,Sony WH-1000XM5 Headphones,"While the performance of the Sony WH-1000XM5 Headphones impressed me, the overheating was underwhelming.",performance,overheating,Positive
+CUST01303,PROD003,Sony WH-1000XM5 Headphones,"The design on the Sony WH-1000XM5 Headphones is outstanding, although the price could be better.",design,price,Positive
+CUST01730,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its performance, though its size bothers me sometimes.",performance,size,Positive
+CUST00744,PROD003,Sony WH-1000XM5 Headphones,"While the battery life of the Sony WH-1000XM5 Headphones impressed me, the price was underwhelming.",battery life,price,Positive
+CUST01740,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its storage capacity, though its overheating bothers me sometimes.",storage capacity,overheating,Mixed
+CUST01946,PROD003,Sony WH-1000XM5 Headphones,"I really love the display of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its slow updates.",display,slow updates,Negative
+CUST01394,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its speed, but the size needs improvement.",speed,size,Mixed
+CUST00525,PROD003,Sony WH-1000XM5 Headphones,"While the display of the Sony WH-1000XM5 Headphones impressed me, the heating issues was underwhelming.",display,heating issues,Mixed
+CUST00329,PROD003,Sony WH-1000XM5 Headphones,"While the storage capacity of the Sony WH-1000XM5 Headphones impressed me, the slow updates was underwhelming.",storage capacity,slow updates,Positive
+CUST01794,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its camera quality, though its heating issues bothers me sometimes.",camera quality,heating issues,Negative
+CUST01062,PROD003,Sony WH-1000XM5 Headphones,"I really love the battery life of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its software bugs.",battery life,software bugs,Mixed
+CUST00413,PROD003,Sony WH-1000XM5 Headphones,"The design on the Sony WH-1000XM5 Headphones is outstanding, although the limited ports could be better.",design,limited ports,Mixed
+CUST00904,PROD003,Sony WH-1000XM5 Headphones,"The performance on the Sony WH-1000XM5 Headphones is outstanding, although the slow updates could be better.",performance,slow updates,Positive
+CUST01577,PROD003,Sony WH-1000XM5 Headphones,"The battery life on the Sony WH-1000XM5 Headphones is outstanding, although the limited ports could be better.",battery life,limited ports,Positive
+CUST00445,PROD003,Sony WH-1000XM5 Headphones,"I really love the durability of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its size.",durability,size,Positive
+CUST00942,PROD003,Sony WH-1000XM5 Headphones,"The design on the Sony WH-1000XM5 Headphones is outstanding, although the software bugs could be better.",design,software bugs,Positive
+CUST01369,PROD003,Sony WH-1000XM5 Headphones,"While the speed of the Sony WH-1000XM5 Headphones impressed me, the weight was underwhelming.",speed,weight,Positive
+CUST01728,PROD003,Sony WH-1000XM5 Headphones,"While the performance of the Sony WH-1000XM5 Headphones impressed me, the size was underwhelming.",performance,size,Positive
+CUST01236,PROD003,Sony WH-1000XM5 Headphones,"I really love the speed of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its size.",speed,size,Mixed
+CUST01538,PROD003,Sony WH-1000XM5 Headphones,"I really love the camera quality of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its battery drain.",camera quality,battery drain,Positive
+CUST02080,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its storage capacity, though its slow updates bothers me sometimes.",storage capacity,slow updates,Mixed
+CUST01262,PROD003,Sony WH-1000XM5 Headphones,"The build quality on the Sony WH-1000XM5 Headphones is outstanding, although the overheating could be better.",build quality,overheating,Positive
+CUST01744,PROD003,Sony WH-1000XM5 Headphones,"I really love the performance of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its battery drain.",performance,battery drain,Positive
+CUST00884,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its speed, but the fragile screen needs improvement.",speed,fragile screen,Negative
+CUST00181,PROD003,Sony WH-1000XM5 Headphones,"I really love the camera quality of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its overheating.",camera quality,overheating,Positive
+CUST02048,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its sound clarity, but the size needs improvement.",sound clarity,size,Positive
+CUST01074,PROD003,Sony WH-1000XM5 Headphones,"I really love the display of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its battery drain.",display,battery drain,Mixed
+CUST00406,PROD003,Sony WH-1000XM5 Headphones,"I really love the display of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its slow updates.",display,slow updates,Mixed
+CUST01112,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its camera quality, but the weight needs improvement.",camera quality,weight,Mixed
+CUST01748,PROD003,Sony WH-1000XM5 Headphones,"I really love the design of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its limited ports.",design,limited ports,Positive
+CUST01095,PROD003,Sony WH-1000XM5 Headphones,"The design on the Sony WH-1000XM5 Headphones is outstanding, although the battery drain could be better.",design,battery drain,Negative
+CUST01703,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its ease of use, but the slow updates needs improvement.",ease of use,slow updates,Negative
+CUST00101,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its design, though its overheating bothers me sometimes.",design,overheating,Positive
+CUST01593,PROD003,Sony WH-1000XM5 Headphones,"I really love the performance of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its size.",performance,size,Positive
+CUST01717,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its storage capacity, but the heating issues needs improvement.",storage capacity,heating issues,Positive
+CUST00188,PROD003,Sony WH-1000XM5 Headphones,"I really love the storage capacity of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its slow updates.",storage capacity,slow updates,Positive
+CUST00585,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its speed, though its slow updates bothers me sometimes.",speed,slow updates,Mixed
+CUST00451,PROD003,Sony WH-1000XM5 Headphones,"While the battery life of the Sony WH-1000XM5 Headphones impressed me, the heating issues was underwhelming.",battery life,heating issues,Mixed
+CUST00409,PROD003,Sony WH-1000XM5 Headphones,"While the build quality of the Sony WH-1000XM5 Headphones impressed me, the limited ports was underwhelming.",build quality,limited ports,Negative
+CUST01771,PROD003,Sony WH-1000XM5 Headphones,"The sound clarity on the Sony WH-1000XM5 Headphones is outstanding, although the heating issues could be better.",sound clarity,heating issues,Positive
+CUST01615,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its design, but the weight needs improvement.",design,weight,Mixed
+CUST00572,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its battery life, but the weight needs improvement.",battery life,weight,Positive
+CUST00860,PROD003,Sony WH-1000XM5 Headphones,"While the durability of the Sony WH-1000XM5 Headphones impressed me, the weight was underwhelming.",durability,weight,Negative
+CUST00142,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its ease of use, but the fragile screen needs improvement.",ease of use,fragile screen,Positive
+CUST01677,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its storage capacity, but the weight needs improvement.",storage capacity,weight,Negative
+CUST00394,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its performance, but the heating issues needs improvement.",performance,heating issues,Positive
+CUST00631,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its ease of use, but the software bugs needs improvement.",ease of use,software bugs,Positive
+CUST01202,PROD003,Sony WH-1000XM5 Headphones,"The speed on the Sony WH-1000XM5 Headphones is outstanding, although the slow updates could be better.",speed,slow updates,Negative
+CUST01254,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its camera quality, though its battery drain bothers me sometimes.",camera quality,battery drain,Mixed
+CUST01151,PROD003,Sony WH-1000XM5 Headphones,"While the speed of the Sony WH-1000XM5 Headphones impressed me, the slow updates was underwhelming.",speed,slow updates,Mixed
+CUST01757,PROD003,Sony WH-1000XM5 Headphones,"The ease of use on the Sony WH-1000XM5 Headphones is outstanding, although the price could be better.",ease of use,price,Positive
+CUST00768,PROD003,Sony WH-1000XM5 Headphones,"The camera quality on the Sony WH-1000XM5 Headphones is outstanding, although the limited ports could be better.",camera quality,limited ports,Negative
+CUST01165,PROD003,Sony WH-1000XM5 Headphones,"The battery life on the Sony WH-1000XM5 Headphones is outstanding, although the price could be better.",battery life,price,Mixed
+CUST00674,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its camera quality, but the price needs improvement.",camera quality,price,Positive
+CUST00271,PROD003,Sony WH-1000XM5 Headphones,"While the build quality of the Sony WH-1000XM5 Headphones impressed me, the size was underwhelming.",build quality,size,Positive
+CUST02040,PROD003,Sony WH-1000XM5 Headphones,"I really love the performance of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its overheating.",performance,overheating,Mixed
+CUST01651,PROD003,Sony WH-1000XM5 Headphones,"I really love the design of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its limited ports.",design,limited ports,Negative
+CUST00886,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its build quality, though its heating issues bothers me sometimes.",build quality,heating issues,Positive
+CUST01840,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its ease of use, but the weight needs improvement.",ease of use,weight,Mixed
+CUST00128,PROD003,Sony WH-1000XM5 Headphones,"The storage capacity on the Sony WH-1000XM5 Headphones is outstanding, although the overheating could be better.",storage capacity,overheating,Negative
+CUST01444,PROD003,Sony WH-1000XM5 Headphones,"The display on the Sony WH-1000XM5 Headphones is outstanding, although the battery drain could be better.",display,battery drain,Negative
+CUST01179,PROD003,Sony WH-1000XM5 Headphones,"The durability on the Sony WH-1000XM5 Headphones is outstanding, although the overheating could be better.",durability,overheating,Positive
+CUST00854,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its performance, though its size bothers me sometimes.",performance,size,Mixed
+CUST00617,PROD003,Sony WH-1000XM5 Headphones,"The design on the Sony WH-1000XM5 Headphones is outstanding, although the heating issues could be better.",design,heating issues,Positive
+CUST00573,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its display, but the heating issues needs improvement.",display,heating issues,Positive
+CUST00936,PROD003,Sony WH-1000XM5 Headphones,"While the display of the Sony WH-1000XM5 Headphones impressed me, the fragile screen was underwhelming.",display,fragile screen,Positive
+CUST00231,PROD003,Sony WH-1000XM5 Headphones,"I enjoy using the Sony WH-1000XM5 Headphones because of its performance, though its battery drain bothers me sometimes.",performance,battery drain,Positive
+CUST01137,PROD003,Sony WH-1000XM5 Headphones,"I really love the ease of use of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its software bugs.",ease of use,software bugs,Positive
+CUST00540,PROD003,Sony WH-1000XM5 Headphones,"I really love the design of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its overheating.",design,overheating,Positive
+CUST01661,PROD003,Sony WH-1000XM5 Headphones,"I really love the design of my Sony WH-1000XM5 Headphones, but I'm a bit disappointed with its limited ports.",design,limited ports,Positive
+CUST01298,PROD003,Sony WH-1000XM5 Headphones,"While the design of the Sony WH-1000XM5 Headphones impressed me, the heating issues was underwhelming.",design,heating issues,Positive
+CUST01296,PROD003,Sony WH-1000XM5 Headphones,"The design on the Sony WH-1000XM5 Headphones is outstanding, although the software bugs could be better.",design,software bugs,Positive
+CUST01161,PROD003,Sony WH-1000XM5 Headphones,"While the battery life of the Sony WH-1000XM5 Headphones impressed me, the slow updates was underwhelming.",battery life,slow updates,Positive
+CUST01784,PROD003,Sony WH-1000XM5 Headphones,"My experience with the Sony WH-1000XM5 Headphones has been mostly great due to its display, but the size needs improvement.",display,size,Positive
+CUST00577,PROD003,Sony WH-1000XM5 Headphones,"The build quality on the Sony WH-1000XM5 Headphones is outstanding, although the slow updates could be better.",build quality,slow updates,Mixed
+CUST00542,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its camera quality, though its price bothers me sometimes.",camera quality,price,Negative
+CUST01366,PROD004,Dell XPS 15 Laptop,"I really love the camera quality of my Dell XPS 15 Laptop, but I'm a bit disappointed with its battery drain.",camera quality,battery drain,Positive
+CUST00504,PROD004,Dell XPS 15 Laptop,"While the storage capacity of the Dell XPS 15 Laptop impressed me, the weight was underwhelming.",storage capacity,weight,Positive
+CUST01591,PROD004,Dell XPS 15 Laptop,"While the speed of the Dell XPS 15 Laptop impressed me, the price was underwhelming.",speed,price,Positive
+CUST00482,PROD004,Dell XPS 15 Laptop,"While the durability of the Dell XPS 15 Laptop impressed me, the limited ports was underwhelming.",durability,limited ports,Positive
+CUST00421,PROD004,Dell XPS 15 Laptop,"The storage capacity on the Dell XPS 15 Laptop is outstanding, although the weight could be better.",storage capacity,weight,Positive
+CUST01582,PROD004,Dell XPS 15 Laptop,"The display on the Dell XPS 15 Laptop is outstanding, although the heating issues could be better.",display,heating issues,Negative
+CUST01510,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its ease of use, but the short cable needs improvement.",ease of use,short cable,Positive
+CUST01036,PROD004,Dell XPS 15 Laptop,"While the ease of use of the Dell XPS 15 Laptop impressed me, the limited ports was underwhelming.",ease of use,limited ports,Positive
+CUST01964,PROD004,Dell XPS 15 Laptop,"While the speed of the Dell XPS 15 Laptop impressed me, the overheating was underwhelming.",speed,overheating,Mixed
+CUST01180,PROD004,Dell XPS 15 Laptop,"I really love the performance of my Dell XPS 15 Laptop, but I'm a bit disappointed with its weight.",performance,weight,Mixed
+CUST00804,PROD004,Dell XPS 15 Laptop,"The sound clarity on the Dell XPS 15 Laptop is outstanding, although the heating issues could be better.",sound clarity,heating issues,Negative
+CUST00228,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its display, though its limited ports bothers me sometimes.",display,limited ports,Positive
+CUST01777,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its battery life, though its software bugs bothers me sometimes.",battery life,software bugs,Negative
+CUST01759,PROD004,Dell XPS 15 Laptop,"The sound clarity on the Dell XPS 15 Laptop is outstanding, although the weight could be better.",sound clarity,weight,Positive
+CUST01789,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its ease of use, but the fragile screen needs improvement.",ease of use,fragile screen,Mixed
+CUST00242,PROD004,Dell XPS 15 Laptop,"The ease of use on the Dell XPS 15 Laptop is outstanding, although the overheating could be better.",ease of use,overheating,Positive
+CUST02029,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its battery life, though its price bothers me sometimes.",battery life,price,Mixed
+CUST00578,PROD004,Dell XPS 15 Laptop,"I really love the durability of my Dell XPS 15 Laptop, but I'm a bit disappointed with its overheating.",durability,overheating,Positive
+CUST01984,PROD004,Dell XPS 15 Laptop,"While the durability of the Dell XPS 15 Laptop impressed me, the software bugs was underwhelming.",durability,software bugs,Mixed
+CUST01421,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its ease of use, though its heating issues bothers me sometimes.",ease of use,heating issues,Negative
+CUST01694,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its display, though its limited ports bothers me sometimes.",display,limited ports,Mixed
+CUST01636,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its design, but the software bugs needs improvement.",design,software bugs,Mixed
+CUST01954,PROD004,Dell XPS 15 Laptop,"I really love the build quality of my Dell XPS 15 Laptop, but I'm a bit disappointed with its slow updates.",build quality,slow updates,Positive
+CUST00281,PROD004,Dell XPS 15 Laptop,"While the sound clarity of the Dell XPS 15 Laptop impressed me, the battery drain was underwhelming.",sound clarity,battery drain,Positive
+CUST01731,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its display, but the price needs improvement.",display,price,Positive
+CUST01445,PROD004,Dell XPS 15 Laptop,"The sound clarity on the Dell XPS 15 Laptop is outstanding, although the size could be better.",sound clarity,size,Positive
+CUST02009,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its ease of use, though its software bugs bothers me sometimes.",ease of use,software bugs,Mixed
+CUST00245,PROD004,Dell XPS 15 Laptop,"I really love the build quality of my Dell XPS 15 Laptop, but I'm a bit disappointed with its overheating.",build quality,overheating,Positive
+CUST01419,PROD004,Dell XPS 15 Laptop,"I really love the display of my Dell XPS 15 Laptop, but I'm a bit disappointed with its weight.",display,weight,Positive
+CUST00990,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its speed, though its price bothers me sometimes.",speed,price,Mixed
+CUST00897,PROD004,Dell XPS 15 Laptop,"While the camera quality of the Dell XPS 15 Laptop impressed me, the weight was underwhelming.",camera quality,weight,Positive
+CUST01522,PROD004,Dell XPS 15 Laptop,"While the design of the Dell XPS 15 Laptop impressed me, the limited ports was underwhelming.",design,limited ports,Positive
+CUST00618,PROD004,Dell XPS 15 Laptop,"I really love the sound clarity of my Dell XPS 15 Laptop, but I'm a bit disappointed with its short cable.",sound clarity,short cable,Positive
+CUST00210,PROD004,Dell XPS 15 Laptop,"While the speed of the Dell XPS 15 Laptop impressed me, the size was underwhelming.",speed,size,Mixed
+CUST01150,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its sound clarity, but the software bugs needs improvement.",sound clarity,software bugs,Mixed
+CUST01292,PROD004,Dell XPS 15 Laptop,"While the battery life of the Dell XPS 15 Laptop impressed me, the battery drain was underwhelming.",battery life,battery drain,Mixed
+CUST01578,PROD004,Dell XPS 15 Laptop,"I really love the ease of use of my Dell XPS 15 Laptop, but I'm a bit disappointed with its short cable.",ease of use,short cable,Negative
+CUST01924,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its build quality, but the limited ports needs improvement.",build quality,limited ports,Positive
+CUST01046,PROD004,Dell XPS 15 Laptop,"While the build quality of the Dell XPS 15 Laptop impressed me, the limited ports was underwhelming.",build quality,limited ports,Positive
+CUST00526,PROD004,Dell XPS 15 Laptop,"While the sound clarity of the Dell XPS 15 Laptop impressed me, the weight was underwhelming.",sound clarity,weight,Negative
+CUST00945,PROD004,Dell XPS 15 Laptop,"I really love the design of my Dell XPS 15 Laptop, but I'm a bit disappointed with its limited ports.",design,limited ports,Positive
+CUST01785,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its camera quality, but the weight needs improvement.",camera quality,weight,Positive
+CUST00351,PROD004,Dell XPS 15 Laptop,"While the camera quality of the Dell XPS 15 Laptop impressed me, the overheating was underwhelming.",camera quality,overheating,Positive
+CUST01404,PROD004,Dell XPS 15 Laptop,"I really love the durability of my Dell XPS 15 Laptop, but I'm a bit disappointed with its software bugs.",durability,software bugs,Mixed
+CUST00692,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its performance, though its slow updates bothers me sometimes.",performance,slow updates,Positive
+CUST00614,PROD004,Dell XPS 15 Laptop,"The ease of use on the Dell XPS 15 Laptop is outstanding, although the fragile screen could be better.",ease of use,fragile screen,Negative
+CUST00183,PROD004,Dell XPS 15 Laptop,"The performance on the Dell XPS 15 Laptop is outstanding, although the battery drain could be better.",performance,battery drain,Mixed
+CUST01463,PROD004,Dell XPS 15 Laptop,"The speed on the Dell XPS 15 Laptop is outstanding, although the price could be better.",speed,price,Positive
+CUST00681,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its camera quality, though its heating issues bothers me sometimes.",camera quality,heating issues,Positive
+CUST01842,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its build quality, though its heating issues bothers me sometimes.",build quality,heating issues,Positive
+CUST00439,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its ease of use, though its size bothers me sometimes.",ease of use,size,Positive
+CUST00801,PROD004,Dell XPS 15 Laptop,"While the storage capacity of the Dell XPS 15 Laptop impressed me, the price was underwhelming.",storage capacity,price,Mixed
+CUST00712,PROD004,Dell XPS 15 Laptop,"The performance on the Dell XPS 15 Laptop is outstanding, although the price could be better.",performance,price,Positive
+CUST00595,PROD004,Dell XPS 15 Laptop,"I really love the performance of my Dell XPS 15 Laptop, but I'm a bit disappointed with its heating issues.",performance,heating issues,Positive
+CUST00919,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its ease of use, but the battery drain needs improvement.",ease of use,battery drain,Positive
+CUST01855,PROD004,Dell XPS 15 Laptop,"The speed on the Dell XPS 15 Laptop is outstanding, although the fragile screen could be better.",speed,fragile screen,Mixed
+CUST01220,PROD004,Dell XPS 15 Laptop,"While the speed of the Dell XPS 15 Laptop impressed me, the size was underwhelming.",speed,size,Positive
+CUST00607,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its performance, but the limited ports needs improvement.",performance,limited ports,Positive
+CUST02004,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its camera quality, though its slow updates bothers me sometimes.",camera quality,slow updates,Positive
+CUST00530,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its design, though its heating issues bothers me sometimes.",design,heating issues,Positive
+CUST00830,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its ease of use, but the battery drain needs improvement.",ease of use,battery drain,Mixed
+CUST00126,PROD004,Dell XPS 15 Laptop,"The ease of use on the Dell XPS 15 Laptop is outstanding, although the slow updates could be better.",ease of use,slow updates,Negative
+CUST01188,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its display, but the heating issues needs improvement.",display,heating issues,Positive
+CUST00533,PROD004,Dell XPS 15 Laptop,"I really love the performance of my Dell XPS 15 Laptop, but I'm a bit disappointed with its limited ports.",performance,limited ports,Positive
+CUST01098,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its camera quality, though its slow updates bothers me sometimes.",camera quality,slow updates,Positive
+CUST00264,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its ease of use, though its heating issues bothers me sometimes.",ease of use,heating issues,Mixed
+CUST01634,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its display, though its overheating bothers me sometimes.",display,overheating,Positive
+CUST00868,PROD004,Dell XPS 15 Laptop,"The design on the Dell XPS 15 Laptop is outstanding, although the fragile screen could be better.",design,fragile screen,Negative
+CUST01319,PROD004,Dell XPS 15 Laptop,"While the durability of the Dell XPS 15 Laptop impressed me, the software bugs was underwhelming.",durability,software bugs,Mixed
+CUST00852,PROD004,Dell XPS 15 Laptop,"I really love the battery life of my Dell XPS 15 Laptop, but I'm a bit disappointed with its overheating.",battery life,overheating,Positive
+CUST01601,PROD004,Dell XPS 15 Laptop,"While the storage capacity of the Dell XPS 15 Laptop impressed me, the overheating was underwhelming.",storage capacity,overheating,Positive
+CUST01662,PROD004,Dell XPS 15 Laptop,"I really love the camera quality of my Dell XPS 15 Laptop, but I'm a bit disappointed with its slow updates.",camera quality,slow updates,Positive
+CUST00521,PROD004,Dell XPS 15 Laptop,"While the storage capacity of the Dell XPS 15 Laptop impressed me, the software bugs was underwhelming.",storage capacity,software bugs,Positive
+CUST00374,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its durability, but the size needs improvement.",durability,size,Positive
+CUST01937,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its ease of use, but the weight needs improvement.",ease of use,weight,Positive
+CUST01851,PROD004,Dell XPS 15 Laptop,"I really love the battery life of my Dell XPS 15 Laptop, but I'm a bit disappointed with its software bugs.",battery life,software bugs,Positive
+CUST01811,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its camera quality, though its software bugs bothers me sometimes.",camera quality,software bugs,Positive
+CUST01154,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its design, though its battery drain bothers me sometimes.",design,battery drain,Positive
+CUST00543,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its ease of use, though its fragile screen bothers me sometimes.",ease of use,fragile screen,Positive
+CUST00366,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its display, though its size bothers me sometimes.",display,size,Positive
+CUST01450,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its speed, though its software bugs bothers me sometimes.",speed,software bugs,Positive
+CUST00477,PROD004,Dell XPS 15 Laptop,"The durability on the Dell XPS 15 Laptop is outstanding, although the heating issues could be better.",durability,heating issues,Mixed
+CUST01194,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its performance, but the limited ports needs improvement.",performance,limited ports,Positive
+CUST00982,PROD004,Dell XPS 15 Laptop,"I really love the storage capacity of my Dell XPS 15 Laptop, but I'm a bit disappointed with its software bugs.",storage capacity,software bugs,Positive
+CUST00506,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its sound clarity, but the battery drain needs improvement.",sound clarity,battery drain,Mixed
+CUST00251,PROD004,Dell XPS 15 Laptop,"My experience with the Dell XPS 15 Laptop has been mostly great due to its camera quality, but the size needs improvement.",camera quality,size,Mixed
+CUST00114,PROD004,Dell XPS 15 Laptop,"While the build quality of the Dell XPS 15 Laptop impressed me, the slow updates was underwhelming.",build quality,slow updates,Positive
+CUST00816,PROD004,Dell XPS 15 Laptop,"The ease of use on the Dell XPS 15 Laptop is outstanding, although the heating issues could be better.",ease of use,heating issues,Mixed
+CUST01729,PROD004,Dell XPS 15 Laptop,"While the speed of the Dell XPS 15 Laptop impressed me, the short cable was underwhelming.",speed,short cable,Mixed
+CUST01402,PROD004,Dell XPS 15 Laptop,"I enjoy using the Dell XPS 15 Laptop because of its design, though its size bothers me sometimes.",design,size,Mixed
+CUST00946,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its build quality, though its heating issues bothers me sometimes.",build quality,heating issues,Negative
+CUST02063,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its performance, though its size bothers me sometimes.",performance,size,Positive
+CUST01725,PROD005,Apple MacBook Air M3,"While the performance of the Apple MacBook Air M3 impressed me, the size was underwhelming.",performance,size,Negative
+CUST00711,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its durability, but the overheating needs improvement.",durability,overheating,Mixed
+CUST01219,PROD005,Apple MacBook Air M3,"The performance on the Apple MacBook Air M3 is outstanding, although the slow updates could be better.",performance,slow updates,Positive
+CUST00657,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its build quality, though its software bugs bothers me sometimes.",build quality,software bugs,Positive
+CUST00592,PROD005,Apple MacBook Air M3,"While the speed of the Apple MacBook Air M3 impressed me, the limited ports was underwhelming.",speed,limited ports,Positive
+CUST00908,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its ease of use, though its limited ports bothers me sometimes.",ease of use,limited ports,Positive
+CUST00369,PROD005,Apple MacBook Air M3,"The build quality on the Apple MacBook Air M3 is outstanding, although the battery drain could be better.",build quality,battery drain,Positive
+CUST01669,PROD005,Apple MacBook Air M3,"The build quality on the Apple MacBook Air M3 is outstanding, although the slow updates could be better.",build quality,slow updates,Positive
+CUST01800,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its camera quality, but the price needs improvement.",camera quality,price,Positive
+CUST00174,PROD005,Apple MacBook Air M3,"I really love the battery life of my Apple MacBook Air M3, but I'm a bit disappointed with its overheating.",battery life,overheating,Mixed
+CUST01574,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its sound clarity, though its size bothers me sometimes.",sound clarity,size,Mixed
+CUST01310,PROD005,Apple MacBook Air M3,"The durability on the Apple MacBook Air M3 is outstanding, although the overheating could be better.",durability,overheating,Positive
+CUST02053,PROD005,Apple MacBook Air M3,"I really love the battery life of my Apple MacBook Air M3, but I'm a bit disappointed with its limited ports.",battery life,limited ports,Positive
+CUST01737,PROD005,Apple MacBook Air M3,"The performance on the Apple MacBook Air M3 is outstanding, although the short cable could be better.",performance,short cable,Mixed
+CUST00104,PROD005,Apple MacBook Air M3,"I really love the build quality of my Apple MacBook Air M3, but I'm a bit disappointed with its slow updates.",build quality,slow updates,Negative
+CUST02012,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its battery life, but the slow updates needs improvement.",battery life,slow updates,Positive
+CUST02072,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its build quality, though its battery drain bothers me sometimes.",build quality,battery drain,Positive
+CUST00569,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its camera quality, but the software bugs needs improvement.",camera quality,software bugs,Negative
+CUST01523,PROD005,Apple MacBook Air M3,"I really love the build quality of my Apple MacBook Air M3, but I'm a bit disappointed with its battery drain.",build quality,battery drain,Positive
+CUST01425,PROD005,Apple MacBook Air M3,"The durability on the Apple MacBook Air M3 is outstanding, although the heating issues could be better.",durability,heating issues,Positive
+CUST00693,PROD005,Apple MacBook Air M3,"While the performance of the Apple MacBook Air M3 impressed me, the heating issues was underwhelming.",performance,heating issues,Positive
+CUST01775,PROD005,Apple MacBook Air M3,"The speed on the Apple MacBook Air M3 is outstanding, although the price could be better.",speed,price,Positive
+CUST01580,PROD005,Apple MacBook Air M3,"While the display of the Apple MacBook Air M3 impressed me, the weight was underwhelming.",display,weight,Mixed
+CUST01456,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its ease of use, but the heating issues needs improvement.",ease of use,heating issues,Mixed
+CUST00799,PROD005,Apple MacBook Air M3,"The speed on the Apple MacBook Air M3 is outstanding, although the size could be better.",speed,size,Positive
+CUST00550,PROD005,Apple MacBook Air M3,"The sound clarity on the Apple MacBook Air M3 is outstanding, although the battery drain could be better.",sound clarity,battery drain,Negative
+CUST00229,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its battery life, though its heating issues bothers me sometimes.",battery life,heating issues,Negative
+CUST00489,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its storage capacity, but the overheating needs improvement.",storage capacity,overheating,Positive
+CUST01975,PROD005,Apple MacBook Air M3,"I really love the sound clarity of my Apple MacBook Air M3, but I'm a bit disappointed with its limited ports.",sound clarity,limited ports,Negative
+CUST01417,PROD005,Apple MacBook Air M3,"I really love the camera quality of my Apple MacBook Air M3, but I'm a bit disappointed with its slow updates.",camera quality,slow updates,Mixed
+CUST01079,PROD005,Apple MacBook Air M3,"While the performance of the Apple MacBook Air M3 impressed me, the fragile screen was underwhelming.",performance,fragile screen,Mixed
+CUST00756,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its ease of use, though its battery drain bothers me sometimes.",ease of use,battery drain,Positive
+CUST01607,PROD005,Apple MacBook Air M3,"I really love the ease of use of my Apple MacBook Air M3, but I'm a bit disappointed with its slow updates.",ease of use,slow updates,Positive
+CUST01781,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its ease of use, though its short cable bothers me sometimes.",ease of use,short cable,Positive
+CUST01210,PROD005,Apple MacBook Air M3,"I really love the performance of my Apple MacBook Air M3, but I'm a bit disappointed with its heating issues.",performance,heating issues,Positive
+CUST01013,PROD005,Apple MacBook Air M3,"The speed on the Apple MacBook Air M3 is outstanding, although the battery drain could be better.",speed,battery drain,Positive
+CUST01745,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its durability, but the limited ports needs improvement.",durability,limited ports,Positive
+CUST00971,PROD005,Apple MacBook Air M3,"While the performance of the Apple MacBook Air M3 impressed me, the slow updates was underwhelming.",performance,slow updates,Positive
+CUST01496,PROD005,Apple MacBook Air M3,"While the design of the Apple MacBook Air M3 impressed me, the limited ports was underwhelming.",design,limited ports,Negative
+CUST01657,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its ease of use, though its battery drain bothers me sometimes.",ease of use,battery drain,Mixed
+CUST00817,PROD005,Apple MacBook Air M3,"I really love the battery life of my Apple MacBook Air M3, but I'm a bit disappointed with its price.",battery life,price,Positive
+CUST01512,PROD005,Apple MacBook Air M3,"I really love the design of my Apple MacBook Air M3, but I'm a bit disappointed with its short cable.",design,short cable,Positive
+CUST01621,PROD005,Apple MacBook Air M3,"The design on the Apple MacBook Air M3 is outstanding, although the price could be better.",design,price,Mixed
+CUST00138,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its battery life, but the weight needs improvement.",battery life,weight,Positive
+CUST00192,PROD005,Apple MacBook Air M3,"While the ease of use of the Apple MacBook Air M3 impressed me, the slow updates was underwhelming.",ease of use,slow updates,Mixed
+CUST00810,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its display, though its price bothers me sometimes.",display,price,Positive
+CUST01869,PROD005,Apple MacBook Air M3,"While the durability of the Apple MacBook Air M3 impressed me, the slow updates was underwhelming.",durability,slow updates,Mixed
+CUST01267,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its durability, though its price bothers me sometimes.",durability,price,Positive
+CUST00624,PROD005,Apple MacBook Air M3,"While the performance of the Apple MacBook Air M3 impressed me, the price was underwhelming.",performance,price,Positive
+CUST00460,PROD005,Apple MacBook Air M3,"I really love the ease of use of my Apple MacBook Air M3, but I'm a bit disappointed with its size.",ease of use,size,Positive
+CUST01515,PROD005,Apple MacBook Air M3,"I really love the performance of my Apple MacBook Air M3, but I'm a bit disappointed with its limited ports.",performance,limited ports,Mixed
+CUST00136,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its build quality, but the fragile screen needs improvement.",build quality,fragile screen,Positive
+CUST00694,PROD005,Apple MacBook Air M3,"I really love the durability of my Apple MacBook Air M3, but I'm a bit disappointed with its limited ports.",durability,limited ports,Positive
+CUST01078,PROD005,Apple MacBook Air M3,"The performance on the Apple MacBook Air M3 is outstanding, although the software bugs could be better.",performance,software bugs,Mixed
+CUST00939,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its battery life, but the slow updates needs improvement.",battery life,slow updates,Positive
+CUST01529,PROD005,Apple MacBook Air M3,"I really love the sound clarity of my Apple MacBook Air M3, but I'm a bit disappointed with its short cable.",sound clarity,short cable,Positive
+CUST01949,PROD005,Apple MacBook Air M3,"The speed on the Apple MacBook Air M3 is outstanding, although the software bugs could be better.",speed,software bugs,Negative
+CUST00587,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its design, though its software bugs bothers me sometimes.",design,software bugs,Positive
+CUST01726,PROD005,Apple MacBook Air M3,"While the camera quality of the Apple MacBook Air M3 impressed me, the limited ports was underwhelming.",camera quality,limited ports,Mixed
+CUST01040,PROD005,Apple MacBook Air M3,"The battery life on the Apple MacBook Air M3 is outstanding, although the heating issues could be better.",battery life,heating issues,Positive
+CUST01016,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its durability, but the size needs improvement.",durability,size,Positive
+CUST00917,PROD005,Apple MacBook Air M3,"While the battery life of the Apple MacBook Air M3 impressed me, the fragile screen was underwhelming.",battery life,fragile screen,Positive
+CUST00182,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its speed, though its fragile screen bothers me sometimes.",speed,fragile screen,Positive
+CUST01831,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its performance, but the size needs improvement.",performance,size,Negative
+CUST01705,PROD005,Apple MacBook Air M3,"The sound clarity on the Apple MacBook Air M3 is outstanding, although the size could be better.",sound clarity,size,Mixed
+CUST00327,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its speed, though its software bugs bothers me sometimes.",speed,software bugs,Positive
+CUST02047,PROD005,Apple MacBook Air M3,"While the durability of the Apple MacBook Air M3 impressed me, the software bugs was underwhelming.",durability,software bugs,Negative
+CUST02027,PROD005,Apple MacBook Air M3,"I really love the storage capacity of my Apple MacBook Air M3, but I'm a bit disappointed with its slow updates.",storage capacity,slow updates,Mixed
+CUST01474,PROD005,Apple MacBook Air M3,"While the battery life of the Apple MacBook Air M3 impressed me, the overheating was underwhelming.",battery life,overheating,Positive
+CUST00241,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its build quality, though its overheating bothers me sometimes.",build quality,overheating,Positive
+CUST00858,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its speed, but the battery drain needs improvement.",speed,battery drain,Positive
+CUST01014,PROD005,Apple MacBook Air M3,"The performance on the Apple MacBook Air M3 is outstanding, although the heating issues could be better.",performance,heating issues,Negative
+CUST00829,PROD005,Apple MacBook Air M3,"While the ease of use of the Apple MacBook Air M3 impressed me, the size was underwhelming.",ease of use,size,Positive
+CUST01221,PROD005,Apple MacBook Air M3,"While the battery life of the Apple MacBook Air M3 impressed me, the overheating was underwhelming.",battery life,overheating,Mixed
+CUST00737,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its ease of use, though its weight bothers me sometimes.",ease of use,weight,Positive
+CUST01887,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its durability, though its limited ports bothers me sometimes.",durability,limited ports,Positive
+CUST01773,PROD005,Apple MacBook Air M3,"I really love the speed of my Apple MacBook Air M3, but I'm a bit disappointed with its slow updates.",speed,slow updates,Positive
+CUST00653,PROD005,Apple MacBook Air M3,"While the sound clarity of the Apple MacBook Air M3 impressed me, the size was underwhelming.",sound clarity,size,Positive
+CUST01606,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its camera quality, though its short cable bothers me sometimes.",camera quality,short cable,Negative
+CUST01835,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its camera quality, though its short cable bothers me sometimes.",camera quality,short cable,Mixed
+CUST00782,PROD005,Apple MacBook Air M3,"The performance on the Apple MacBook Air M3 is outstanding, although the overheating could be better.",performance,overheating,Positive
+CUST00324,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its display, but the price needs improvement.",display,price,Positive
+CUST01856,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its performance, though its software bugs bothers me sometimes.",performance,software bugs,Positive
+CUST01482,PROD005,Apple MacBook Air M3,"While the storage capacity of the Apple MacBook Air M3 impressed me, the heating issues was underwhelming.",storage capacity,heating issues,Negative
+CUST01882,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its build quality, though its weight bothers me sometimes.",build quality,weight,Mixed
+CUST02099,PROD005,Apple MacBook Air M3,"The performance on the Apple MacBook Air M3 is outstanding, although the size could be better.",performance,size,Positive
+CUST01640,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its performance, though its heating issues bothers me sometimes.",performance,heating issues,Negative
+CUST00220,PROD005,Apple MacBook Air M3,"I really love the ease of use of my Apple MacBook Air M3, but I'm a bit disappointed with its limited ports.",ease of use,limited ports,Positive
+CUST01465,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its camera quality, but the short cable needs improvement.",camera quality,short cable,Positive
+CUST01281,PROD005,Apple MacBook Air M3,"While the sound clarity of the Apple MacBook Air M3 impressed me, the fragile screen was underwhelming.",sound clarity,fragile screen,Positive
+CUST01408,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its design, but the limited ports needs improvement.",design,limited ports,Positive
+CUST01687,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its performance, but the software bugs needs improvement.",performance,software bugs,Positive
+CUST00212,PROD005,Apple MacBook Air M3,"My experience with the Apple MacBook Air M3 has been mostly great due to its durability, but the fragile screen needs improvement.",durability,fragile screen,Negative
+CUST00920,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its storage capacity, though its limited ports bothers me sometimes.",storage capacity,limited ports,Positive
+CUST00901,PROD005,Apple MacBook Air M3,"I really love the battery life of my Apple MacBook Air M3, but I'm a bit disappointed with its limited ports.",battery life,limited ports,Positive
+CUST00828,PROD005,Apple MacBook Air M3,"While the storage capacity of the Apple MacBook Air M3 impressed me, the size was underwhelming.",storage capacity,size,Mixed
+CUST01643,PROD005,Apple MacBook Air M3,"I really love the performance of my Apple MacBook Air M3, but I'm a bit disappointed with its heating issues.",performance,heating issues,Positive
+CUST01504,PROD005,Apple MacBook Air M3,"I enjoy using the Apple MacBook Air M3 because of its build quality, though its heating issues bothers me sometimes.",build quality,heating issues,Positive
+CUST00322,PROD006,Bose QuietComfort Earbuds II,"The storage capacity on the Bose QuietComfort Earbuds II is outstanding, although the heating issues could be better.",storage capacity,heating issues,Mixed
+CUST00348,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its sound clarity, but the overheating needs improvement.",sound clarity,overheating,Positive
+CUST01663,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its camera quality, but the slow updates needs improvement.",camera quality,slow updates,Mixed
+CUST01209,PROD006,Bose QuietComfort Earbuds II,"The performance on the Bose QuietComfort Earbuds II is outstanding, although the heating issues could be better.",performance,heating issues,Positive
+CUST00864,PROD006,Bose QuietComfort Earbuds II,"The speed on the Bose QuietComfort Earbuds II is outstanding, although the price could be better.",speed,price,Positive
+CUST01107,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its speed, but the overheating needs improvement.",speed,overheating,Negative
+CUST01436,PROD006,Bose QuietComfort Earbuds II,"I really love the display of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its short cable.",display,short cable,Mixed
+CUST01144,PROD006,Bose QuietComfort Earbuds II,"While the camera quality of the Bose QuietComfort Earbuds II impressed me, the short cable was underwhelming.",camera quality,short cable,Negative
+CUST01895,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its performance, though its short cable bothers me sometimes.",performance,short cable,Mixed
+CUST01083,PROD006,Bose QuietComfort Earbuds II,"The speed on the Bose QuietComfort Earbuds II is outstanding, although the software bugs could be better.",speed,software bugs,Negative
+CUST00986,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its battery life, but the limited ports needs improvement.",battery life,limited ports,Positive
+CUST00875,PROD006,Bose QuietComfort Earbuds II,"The build quality on the Bose QuietComfort Earbuds II is outstanding, although the size could be better.",build quality,size,Positive
+CUST01050,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its speed, though its size bothers me sometimes.",speed,size,Positive
+CUST01024,PROD006,Bose QuietComfort Earbuds II,"The storage capacity on the Bose QuietComfort Earbuds II is outstanding, although the heating issues could be better.",storage capacity,heating issues,Mixed
+CUST01060,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its design, though its battery drain bothers me sometimes.",design,battery drain,Positive
+CUST01645,PROD006,Bose QuietComfort Earbuds II,"The display on the Bose QuietComfort Earbuds II is outstanding, although the limited ports could be better.",display,limited ports,Positive
+CUST00644,PROD006,Bose QuietComfort Earbuds II,"The design on the Bose QuietComfort Earbuds II is outstanding, although the battery drain could be better.",design,battery drain,Mixed
+CUST01350,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its performance, but the weight needs improvement.",performance,weight,Positive
+CUST01986,PROD006,Bose QuietComfort Earbuds II,"I really love the performance of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its battery drain.",performance,battery drain,Positive
+CUST01395,PROD006,Bose QuietComfort Earbuds II,"The build quality on the Bose QuietComfort Earbuds II is outstanding, although the limited ports could be better.",build quality,limited ports,Mixed
+CUST00570,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its build quality, though its heating issues bothers me sometimes.",build quality,heating issues,Positive
+CUST01443,PROD006,Bose QuietComfort Earbuds II,"I really love the performance of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its battery drain.",performance,battery drain,Positive
+CUST02000,PROD006,Bose QuietComfort Earbuds II,"I really love the camera quality of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its price.",camera quality,price,Mixed
+CUST01955,PROD006,Bose QuietComfort Earbuds II,"I really love the battery life of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its slow updates.",battery life,slow updates,Negative
+CUST01567,PROD006,Bose QuietComfort Earbuds II,"The build quality on the Bose QuietComfort Earbuds II is outstanding, although the heating issues could be better.",build quality,heating issues,Positive
+CUST01276,PROD006,Bose QuietComfort Earbuds II,"While the ease of use of the Bose QuietComfort Earbuds II impressed me, the heating issues was underwhelming.",ease of use,heating issues,Positive
+CUST01837,PROD006,Bose QuietComfort Earbuds II,"The design on the Bose QuietComfort Earbuds II is outstanding, although the short cable could be better.",design,short cable,Negative
+CUST00213,PROD006,Bose QuietComfort Earbuds II,"I really love the ease of use of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its price.",ease of use,price,Positive
+CUST00646,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its performance, but the size needs improvement.",performance,size,Mixed
+CUST01449,PROD006,Bose QuietComfort Earbuds II,"While the camera quality of the Bose QuietComfort Earbuds II impressed me, the short cable was underwhelming.",camera quality,short cable,Positive
+CUST01375,PROD006,Bose QuietComfort Earbuds II,"The camera quality on the Bose QuietComfort Earbuds II is outstanding, although the short cable could be better.",camera quality,short cable,Mixed
+CUST01970,PROD006,Bose QuietComfort Earbuds II,"The sound clarity on the Bose QuietComfort Earbuds II is outstanding, although the slow updates could be better.",sound clarity,slow updates,Positive
+CUST01605,PROD006,Bose QuietComfort Earbuds II,"I really love the performance of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its weight.",performance,weight,Positive
+CUST01509,PROD006,Bose QuietComfort Earbuds II,"While the design of the Bose QuietComfort Earbuds II impressed me, the size was underwhelming.",design,size,Negative
+CUST01618,PROD006,Bose QuietComfort Earbuds II,"The performance on the Bose QuietComfort Earbuds II is outstanding, although the heating issues could be better.",performance,heating issues,Positive
+CUST00236,PROD006,Bose QuietComfort Earbuds II,"While the ease of use of the Bose QuietComfort Earbuds II impressed me, the short cable was underwhelming.",ease of use,short cable,Positive
+CUST00202,PROD006,Bose QuietComfort Earbuds II,"While the sound clarity of the Bose QuietComfort Earbuds II impressed me, the heating issues was underwhelming.",sound clarity,heating issues,Positive
+CUST01892,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its sound clarity, though its short cable bothers me sometimes.",sound clarity,short cable,Positive
+CUST01969,PROD006,Bose QuietComfort Earbuds II,"I really love the display of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its fragile screen.",display,fragile screen,Positive
+CUST00255,PROD006,Bose QuietComfort Earbuds II,"I really love the display of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its weight.",display,weight,Mixed
+CUST02073,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its speed, though its size bothers me sometimes.",speed,size,Positive
+CUST01268,PROD006,Bose QuietComfort Earbuds II,"The ease of use on the Bose QuietComfort Earbuds II is outstanding, although the software bugs could be better.",ease of use,software bugs,Negative
+CUST01410,PROD006,Bose QuietComfort Earbuds II,"While the display of the Bose QuietComfort Earbuds II impressed me, the slow updates was underwhelming.",display,slow updates,Mixed
+CUST01301,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its build quality, but the weight needs improvement.",build quality,weight,Positive
+CUST00330,PROD006,Bose QuietComfort Earbuds II,"I really love the display of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its slow updates.",display,slow updates,Mixed
+CUST01564,PROD006,Bose QuietComfort Earbuds II,"The display on the Bose QuietComfort Earbuds II is outstanding, although the limited ports could be better.",display,limited ports,Positive
+CUST00835,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its build quality, but the price needs improvement.",build quality,price,Mixed
+CUST01596,PROD006,Bose QuietComfort Earbuds II,"The durability on the Bose QuietComfort Earbuds II is outstanding, although the slow updates could be better.",durability,slow updates,Negative
+CUST01070,PROD006,Bose QuietComfort Earbuds II,"I really love the storage capacity of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its fragile screen.",storage capacity,fragile screen,Positive
+CUST00495,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its storage capacity, but the fragile screen needs improvement.",storage capacity,fragile screen,Positive
+CUST02070,PROD006,Bose QuietComfort Earbuds II,"I really love the display of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its slow updates.",display,slow updates,Positive
+CUST00807,PROD006,Bose QuietComfort Earbuds II,"While the camera quality of the Bose QuietComfort Earbuds II impressed me, the weight was underwhelming.",camera quality,weight,Negative
+CUST02081,PROD006,Bose QuietComfort Earbuds II,"I really love the storage capacity of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its overheating.",storage capacity,overheating,Negative
+CUST01012,PROD006,Bose QuietComfort Earbuds II,"I really love the build quality of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its size.",build quality,size,Positive
+CUST01628,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its design, but the short cable needs improvement.",design,short cable,Positive
+CUST01736,PROD006,Bose QuietComfort Earbuds II,"While the battery life of the Bose QuietComfort Earbuds II impressed me, the fragile screen was underwhelming.",battery life,fragile screen,Positive
+CUST00555,PROD006,Bose QuietComfort Earbuds II,"I really love the design of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its size.",design,size,Positive
+CUST00457,PROD006,Bose QuietComfort Earbuds II,"While the battery life of the Bose QuietComfort Earbuds II impressed me, the weight was underwhelming.",battery life,weight,Positive
+CUST00464,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its display, though its short cable bothers me sometimes.",display,short cable,Negative
+CUST00398,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its performance, but the slow updates needs improvement.",performance,slow updates,Positive
+CUST00249,PROD006,Bose QuietComfort Earbuds II,"I really love the ease of use of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its overheating.",ease of use,overheating,Positive
+CUST01552,PROD006,Bose QuietComfort Earbuds II,"While the speed of the Bose QuietComfort Earbuds II impressed me, the limited ports was underwhelming.",speed,limited ports,Positive
+CUST01911,PROD006,Bose QuietComfort Earbuds II,"While the storage capacity of the Bose QuietComfort Earbuds II impressed me, the overheating was underwhelming.",storage capacity,overheating,Mixed
+CUST01145,PROD006,Bose QuietComfort Earbuds II,"The performance on the Bose QuietComfort Earbuds II is outstanding, although the weight could be better.",performance,weight,Mixed
+CUST01278,PROD006,Bose QuietComfort Earbuds II,"While the durability of the Bose QuietComfort Earbuds II impressed me, the price was underwhelming.",durability,price,Positive
+CUST00342,PROD006,Bose QuietComfort Earbuds II,"While the storage capacity of the Bose QuietComfort Earbuds II impressed me, the short cable was underwhelming.",storage capacity,short cable,Positive
+CUST00762,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its ease of use, though its slow updates bothers me sometimes.",ease of use,slow updates,Positive
+CUST01952,PROD006,Bose QuietComfort Earbuds II,"The durability on the Bose QuietComfort Earbuds II is outstanding, although the limited ports could be better.",durability,limited ports,Positive
+CUST01935,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its sound clarity, though its size bothers me sometimes.",sound clarity,size,Mixed
+CUST00818,PROD006,Bose QuietComfort Earbuds II,"While the camera quality of the Bose QuietComfort Earbuds II impressed me, the size was underwhelming.",camera quality,size,Positive
+CUST00900,PROD006,Bose QuietComfort Earbuds II,"While the durability of the Bose QuietComfort Earbuds II impressed me, the weight was underwhelming.",durability,weight,Positive
+CUST01121,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its sound clarity, but the weight needs improvement.",sound clarity,weight,Positive
+CUST00635,PROD006,Bose QuietComfort Earbuds II,"While the camera quality of the Bose QuietComfort Earbuds II impressed me, the fragile screen was underwhelming.",camera quality,fragile screen,Positive
+CUST00985,PROD006,Bose QuietComfort Earbuds II,"While the speed of the Bose QuietComfort Earbuds II impressed me, the size was underwhelming.",speed,size,Positive
+CUST00259,PROD006,Bose QuietComfort Earbuds II,"While the design of the Bose QuietComfort Earbuds II impressed me, the software bugs was underwhelming.",design,software bugs,Positive
+CUST01027,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its camera quality, though its price bothers me sometimes.",camera quality,price,Positive
+CUST00974,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its display, though its price bothers me sometimes.",display,price,Mixed
+CUST00677,PROD006,Bose QuietComfort Earbuds II,"While the speed of the Bose QuietComfort Earbuds II impressed me, the size was underwhelming.",speed,size,Positive
+CUST01134,PROD006,Bose QuietComfort Earbuds II,"I really love the storage capacity of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its limited ports.",storage capacity,limited ports,Positive
+CUST00650,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its design, though its battery drain bothers me sometimes.",design,battery drain,Negative
+CUST01113,PROD006,Bose QuietComfort Earbuds II,"The camera quality on the Bose QuietComfort Earbuds II is outstanding, although the price could be better.",camera quality,price,Mixed
+CUST01541,PROD006,Bose QuietComfort Earbuds II,"I really love the sound clarity of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its software bugs.",sound clarity,software bugs,Positive
+CUST00740,PROD006,Bose QuietComfort Earbuds II,"While the display of the Bose QuietComfort Earbuds II impressed me, the size was underwhelming.",display,size,Negative
+CUST01293,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its battery life, but the slow updates needs improvement.",battery life,slow updates,Positive
+CUST01638,PROD006,Bose QuietComfort Earbuds II,"I enjoy using the Bose QuietComfort Earbuds II because of its design, though its battery drain bothers me sometimes.",design,battery drain,Positive
+CUST00159,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its design, but the battery drain needs improvement.",design,battery drain,Positive
+CUST00262,PROD006,Bose QuietComfort Earbuds II,"While the speed of the Bose QuietComfort Earbuds II impressed me, the heating issues was underwhelming.",speed,heating issues,Mixed
+CUST00913,PROD006,Bose QuietComfort Earbuds II,"I really love the performance of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its software bugs.",performance,software bugs,Negative
+CUST00454,PROD006,Bose QuietComfort Earbuds II,"My experience with the Bose QuietComfort Earbuds II has been mostly great due to its display, but the weight needs improvement.",display,weight,Positive
+CUST00325,PROD006,Bose QuietComfort Earbuds II,"I really love the storage capacity of my Bose QuietComfort Earbuds II, but I'm a bit disappointed with its price.",storage capacity,price,Positive
+CUST02084,PROD006,Bose QuietComfort Earbuds II,"The battery life on the Bose QuietComfort Earbuds II is outstanding, although the overheating could be better.",battery life,overheating,Mixed
+CUST01502,PROD007,GoPro Hero 12 Black,"The storage capacity on the GoPro Hero 12 Black is outstanding, although the price could be better.",storage capacity,price,Mixed
+CUST00700,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its design, but the battery drain needs improvement.",design,battery drain,Negative
+CUST01594,PROD007,GoPro Hero 12 Black,"While the speed of the GoPro Hero 12 Black impressed me, the size was underwhelming.",speed,size,Positive
+CUST00698,PROD007,GoPro Hero 12 Black,"The durability on the GoPro Hero 12 Black is outstanding, although the slow updates could be better.",durability,slow updates,Positive
+CUST00770,PROD007,GoPro Hero 12 Black,"While the performance of the GoPro Hero 12 Black impressed me, the size was underwhelming.",performance,size,Mixed
+CUST00233,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its battery life, though its price bothers me sometimes.",battery life,price,Positive
+CUST00112,PROD007,GoPro Hero 12 Black,"I really love the ease of use of my GoPro Hero 12 Black, but I'm a bit disappointed with its overheating.",ease of use,overheating,Negative
+CUST00166,PROD007,GoPro Hero 12 Black,"I really love the display of my GoPro Hero 12 Black, but I'm a bit disappointed with its size.",display,size,Positive
+CUST00302,PROD007,GoPro Hero 12 Black,"The performance on the GoPro Hero 12 Black is outstanding, although the slow updates could be better.",performance,slow updates,Positive
+CUST01904,PROD007,GoPro Hero 12 Black,"While the performance of the GoPro Hero 12 Black impressed me, the price was underwhelming.",performance,price,Positive
+CUST01782,PROD007,GoPro Hero 12 Black,"I really love the camera quality of my GoPro Hero 12 Black, but I'm a bit disappointed with its limited ports.",camera quality,limited ports,Mixed
+CUST00532,PROD007,GoPro Hero 12 Black,"The display on the GoPro Hero 12 Black is outstanding, although the short cable could be better.",display,short cable,Negative
+CUST00483,PROD007,GoPro Hero 12 Black,"I really love the performance of my GoPro Hero 12 Black, but I'm a bit disappointed with its size.",performance,size,Negative
+CUST01177,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its sound clarity, but the slow updates needs improvement.",sound clarity,slow updates,Mixed
+CUST00802,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its battery life, though its size bothers me sometimes.",battery life,size,Positive
+CUST01786,PROD007,GoPro Hero 12 Black,"While the storage capacity of the GoPro Hero 12 Black impressed me, the weight was underwhelming.",storage capacity,weight,Positive
+CUST00208,PROD007,GoPro Hero 12 Black,"I really love the camera quality of my GoPro Hero 12 Black, but I'm a bit disappointed with its battery drain.",camera quality,battery drain,Mixed
+CUST01065,PROD007,GoPro Hero 12 Black,"The camera quality on the GoPro Hero 12 Black is outstanding, although the weight could be better.",camera quality,weight,Mixed
+CUST01503,PROD007,GoPro Hero 12 Black,"While the sound clarity of the GoPro Hero 12 Black impressed me, the slow updates was underwhelming.",sound clarity,slow updates,Positive
+CUST00877,PROD007,GoPro Hero 12 Black,"While the build quality of the GoPro Hero 12 Black impressed me, the overheating was underwhelming.",build quality,overheating,Mixed
+CUST01101,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its design, though its weight bothers me sometimes.",design,weight,Mixed
+CUST00469,PROD007,GoPro Hero 12 Black,"The camera quality on the GoPro Hero 12 Black is outstanding, although the software bugs could be better.",camera quality,software bugs,Positive
+CUST00293,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its durability, but the size needs improvement.",durability,size,Negative
+CUST00273,PROD007,GoPro Hero 12 Black,"The durability on the GoPro Hero 12 Black is outstanding, although the software bugs could be better.",durability,software bugs,Positive
+CUST01626,PROD007,GoPro Hero 12 Black,"I really love the sound clarity of my GoPro Hero 12 Black, but I'm a bit disappointed with its fragile screen.",sound clarity,fragile screen,Positive
+CUST01894,PROD007,GoPro Hero 12 Black,"While the ease of use of the GoPro Hero 12 Black impressed me, the weight was underwhelming.",ease of use,weight,Positive
+CUST01671,PROD007,GoPro Hero 12 Black,"The storage capacity on the GoPro Hero 12 Black is outstanding, although the price could be better.",storage capacity,price,Negative
+CUST00389,PROD007,GoPro Hero 12 Black,"I really love the ease of use of my GoPro Hero 12 Black, but I'm a bit disappointed with its battery drain.",ease of use,battery drain,Positive
+CUST00304,PROD007,GoPro Hero 12 Black,"I really love the display of my GoPro Hero 12 Black, but I'm a bit disappointed with its heating issues.",display,heating issues,Negative
+CUST01096,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its ease of use, though its heating issues bothers me sometimes.",ease of use,heating issues,Positive
+CUST00551,PROD007,GoPro Hero 12 Black,"The durability on the GoPro Hero 12 Black is outstanding, although the fragile screen could be better.",durability,fragile screen,Positive
+CUST00157,PROD007,GoPro Hero 12 Black,"I really love the performance of my GoPro Hero 12 Black, but I'm a bit disappointed with its price.",performance,price,Positive
+CUST00226,PROD007,GoPro Hero 12 Black,"The ease of use on the GoPro Hero 12 Black is outstanding, although the fragile screen could be better.",ease of use,fragile screen,Positive
+CUST01702,PROD007,GoPro Hero 12 Black,"I really love the display of my GoPro Hero 12 Black, but I'm a bit disappointed with its overheating.",display,overheating,Mixed
+CUST01208,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its battery life, though its slow updates bothers me sometimes.",battery life,slow updates,Positive
+CUST01097,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its display, but the fragile screen needs improvement.",display,fragile screen,Mixed
+CUST00805,PROD007,GoPro Hero 12 Black,"While the storage capacity of the GoPro Hero 12 Black impressed me, the heating issues was underwhelming.",storage capacity,heating issues,Mixed
+CUST01923,PROD007,GoPro Hero 12 Black,"The durability on the GoPro Hero 12 Black is outstanding, although the limited ports could be better.",durability,limited ports,Positive
+CUST01693,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its performance, though its fragile screen bothers me sometimes.",performance,fragile screen,Mixed
+CUST00648,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its build quality, though its limited ports bothers me sometimes.",build quality,limited ports,Positive
+CUST01877,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its battery life, though its slow updates bothers me sometimes.",battery life,slow updates,Positive
+CUST01403,PROD007,GoPro Hero 12 Black,"The design on the GoPro Hero 12 Black is outstanding, although the battery drain could be better.",design,battery drain,Mixed
+CUST00517,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its performance, but the weight needs improvement.",performance,weight,Positive
+CUST00851,PROD007,GoPro Hero 12 Black,"While the storage capacity of the GoPro Hero 12 Black impressed me, the short cable was underwhelming.",storage capacity,short cable,Mixed
+CUST00815,PROD007,GoPro Hero 12 Black,"While the camera quality of the GoPro Hero 12 Black impressed me, the short cable was underwhelming.",camera quality,short cable,Positive
+CUST00651,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its performance, though its weight bothers me sometimes.",performance,weight,Positive
+CUST01812,PROD007,GoPro Hero 12 Black,"The design on the GoPro Hero 12 Black is outstanding, although the weight could be better.",design,weight,Mixed
+CUST01689,PROD007,GoPro Hero 12 Black,"While the sound clarity of the GoPro Hero 12 Black impressed me, the weight was underwhelming.",sound clarity,weight,Negative
+CUST01453,PROD007,GoPro Hero 12 Black,"While the build quality of the GoPro Hero 12 Black impressed me, the price was underwhelming.",build quality,price,Negative
+CUST01032,PROD007,GoPro Hero 12 Black,"The speed on the GoPro Hero 12 Black is outstanding, although the short cable could be better.",speed,short cable,Positive
+CUST01478,PROD007,GoPro Hero 12 Black,"The storage capacity on the GoPro Hero 12 Black is outstanding, although the short cable could be better.",storage capacity,short cable,Mixed
+CUST00724,PROD007,GoPro Hero 12 Black,"The build quality on the GoPro Hero 12 Black is outstanding, although the battery drain could be better.",build quality,battery drain,Mixed
+CUST01548,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its design, but the limited ports needs improvement.",design,limited ports,Positive
+CUST01635,PROD007,GoPro Hero 12 Black,"While the storage capacity of the GoPro Hero 12 Black impressed me, the slow updates was underwhelming.",storage capacity,slow updates,Negative
+CUST01136,PROD007,GoPro Hero 12 Black,"I really love the battery life of my GoPro Hero 12 Black, but I'm a bit disappointed with its weight.",battery life,weight,Positive
+CUST01990,PROD007,GoPro Hero 12 Black,"I really love the build quality of my GoPro Hero 12 Black, but I'm a bit disappointed with its short cable.",build quality,short cable,Positive
+CUST00287,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its storage capacity, though its battery drain bothers me sometimes.",storage capacity,battery drain,Positive
+CUST01852,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its sound clarity, but the short cable needs improvement.",sound clarity,short cable,Positive
+CUST01788,PROD007,GoPro Hero 12 Black,"I really love the camera quality of my GoPro Hero 12 Black, but I'm a bit disappointed with its short cable.",camera quality,short cable,Mixed
+CUST01650,PROD007,GoPro Hero 12 Black,"I really love the durability of my GoPro Hero 12 Black, but I'm a bit disappointed with its software bugs.",durability,software bugs,Mixed
+CUST00422,PROD007,GoPro Hero 12 Black,"I really love the build quality of my GoPro Hero 12 Black, but I'm a bit disappointed with its slow updates.",build quality,slow updates,Mixed
+CUST01997,PROD007,GoPro Hero 12 Black,"I really love the durability of my GoPro Hero 12 Black, but I'm a bit disappointed with its overheating.",durability,overheating,Positive
+CUST00232,PROD007,GoPro Hero 12 Black,"The display on the GoPro Hero 12 Black is outstanding, although the overheating could be better.",display,overheating,Positive
+CUST01135,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its storage capacity, though its fragile screen bothers me sometimes.",storage capacity,fragile screen,Mixed
+CUST01009,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its performance, though its limited ports bothers me sometimes.",performance,limited ports,Negative
+CUST01354,PROD007,GoPro Hero 12 Black,"I really love the camera quality of my GoPro Hero 12 Black, but I'm a bit disappointed with its weight.",camera quality,weight,Mixed
+CUST00767,PROD007,GoPro Hero 12 Black,"The storage capacity on the GoPro Hero 12 Black is outstanding, although the short cable could be better.",storage capacity,short cable,Positive
+CUST00625,PROD007,GoPro Hero 12 Black,"While the storage capacity of the GoPro Hero 12 Black impressed me, the price was underwhelming.",storage capacity,price,Positive
+CUST01247,PROD007,GoPro Hero 12 Black,"I really love the durability of my GoPro Hero 12 Black, but I'm a bit disappointed with its short cable.",durability,short cable,Positive
+CUST01061,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its storage capacity, but the battery drain needs improvement.",storage capacity,battery drain,Mixed
+CUST00372,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its speed, but the overheating needs improvement.",speed,overheating,Positive
+CUST01213,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its ease of use, though its fragile screen bothers me sometimes.",ease of use,fragile screen,Mixed
+CUST01647,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its build quality, though its heating issues bothers me sometimes.",build quality,heating issues,Mixed
+CUST01166,PROD007,GoPro Hero 12 Black,"While the design of the GoPro Hero 12 Black impressed me, the overheating was underwhelming.",design,overheating,Negative
+CUST01105,PROD007,GoPro Hero 12 Black,"I really love the speed of my GoPro Hero 12 Black, but I'm a bit disappointed with its heating issues.",speed,heating issues,Positive
+CUST01392,PROD007,GoPro Hero 12 Black,"I really love the speed of my GoPro Hero 12 Black, but I'm a bit disappointed with its price.",speed,price,Mixed
+CUST01772,PROD007,GoPro Hero 12 Black,"The durability on the GoPro Hero 12 Black is outstanding, although the battery drain could be better.",durability,battery drain,Mixed
+CUST01475,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its build quality, but the price needs improvement.",build quality,price,Positive
+CUST01373,PROD007,GoPro Hero 12 Black,"The design on the GoPro Hero 12 Black is outstanding, although the price could be better.",design,price,Positive
+CUST01356,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its camera quality, though its battery drain bothers me sometimes.",camera quality,battery drain,Positive
+CUST02066,PROD007,GoPro Hero 12 Black,"I really love the battery life of my GoPro Hero 12 Black, but I'm a bit disappointed with its slow updates.",battery life,slow updates,Positive
+CUST01203,PROD007,GoPro Hero 12 Black,"I really love the battery life of my GoPro Hero 12 Black, but I'm a bit disappointed with its size.",battery life,size,Positive
+CUST00270,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its camera quality, but the overheating needs improvement.",camera quality,overheating,Positive
+CUST00845,PROD007,GoPro Hero 12 Black,"While the ease of use of the GoPro Hero 12 Black impressed me, the overheating was underwhelming.",ease of use,overheating,Positive
+CUST01263,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its battery life, but the short cable needs improvement.",battery life,short cable,Mixed
+CUST01806,PROD007,GoPro Hero 12 Black,"The design on the GoPro Hero 12 Black is outstanding, although the overheating could be better.",design,overheating,Mixed
+CUST00621,PROD007,GoPro Hero 12 Black,"I really love the display of my GoPro Hero 12 Black, but I'm a bit disappointed with its heating issues.",display,heating issues,Negative
+CUST01073,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its storage capacity, though its limited ports bothers me sometimes.",storage capacity,limited ports,Mixed
+CUST00467,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its design, but the fragile screen needs improvement.",design,fragile screen,Positive
+CUST02022,PROD007,GoPro Hero 12 Black,"I really love the performance of my GoPro Hero 12 Black, but I'm a bit disappointed with its slow updates.",performance,slow updates,Positive
+CUST00981,PROD007,GoPro Hero 12 Black,"I really love the battery life of my GoPro Hero 12 Black, but I'm a bit disappointed with its heating issues.",battery life,heating issues,Positive
+CUST00784,PROD007,GoPro Hero 12 Black,"I really love the performance of my GoPro Hero 12 Black, but I'm a bit disappointed with its fragile screen.",performance,fragile screen,Positive
+CUST00359,PROD007,GoPro Hero 12 Black,"My experience with the GoPro Hero 12 Black has been mostly great due to its battery life, but the weight needs improvement.",battery life,weight,Positive
+CUST00283,PROD007,GoPro Hero 12 Black,"I really love the build quality of my GoPro Hero 12 Black, but I'm a bit disappointed with its heating issues.",build quality,heating issues,Positive
+CUST01261,PROD007,GoPro Hero 12 Black,"I enjoy using the GoPro Hero 12 Black because of its build quality, though its size bothers me sometimes.",build quality,size,Mixed
+CUST00582,PROD007,GoPro Hero 12 Black,"While the camera quality of the GoPro Hero 12 Black impressed me, the slow updates was underwhelming.",camera quality,slow updates,Positive
+CUST01196,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its build quality, though its price bothers me sometimes.",build quality,price,Positive
+CUST01227,PROD008,Samsung Galaxy Tab S9 Ultra,"The durability on the Samsung Galaxy Tab S9 Ultra is outstanding, although the size could be better.",durability,size,Positive
+CUST00654,PROD008,Samsung Galaxy Tab S9 Ultra,"The storage capacity on the Samsung Galaxy Tab S9 Ultra is outstanding, although the slow updates could be better.",storage capacity,slow updates,Positive
+CUST01243,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its storage capacity, but the limited ports needs improvement.",storage capacity,limited ports,Positive
+CUST00484,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its design, though its size bothers me sometimes.",design,size,Negative
+CUST00388,PROD008,Samsung Galaxy Tab S9 Ultra,"While the battery life of the Samsung Galaxy Tab S9 Ultra impressed me, the software bugs was underwhelming.",battery life,software bugs,Mixed
+CUST00994,PROD008,Samsung Galaxy Tab S9 Ultra,"While the durability of the Samsung Galaxy Tab S9 Ultra impressed me, the heating issues was underwhelming.",durability,heating issues,Positive
+CUST00675,PROD008,Samsung Galaxy Tab S9 Ultra,"While the display of the Samsung Galaxy Tab S9 Ultra impressed me, the short cable was underwhelming.",display,short cable,Positive
+CUST01827,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its camera quality, but the software bugs needs improvement.",camera quality,software bugs,Positive
+CUST00178,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the design of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its weight.",design,weight,Positive
+CUST00340,PROD008,Samsung Galaxy Tab S9 Ultra,"The durability on the Samsung Galaxy Tab S9 Ultra is outstanding, although the heating issues could be better.",durability,heating issues,Positive
+CUST01818,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its performance, but the overheating needs improvement.",performance,overheating,Negative
+CUST01568,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its speed, though its overheating bothers me sometimes.",speed,overheating,Positive
+CUST01925,PROD008,Samsung Galaxy Tab S9 Ultra,"While the ease of use of the Samsung Galaxy Tab S9 Ultra impressed me, the overheating was underwhelming.",ease of use,overheating,Positive
+CUST00630,PROD008,Samsung Galaxy Tab S9 Ultra,"The sound clarity on the Samsung Galaxy Tab S9 Ultra is outstanding, although the fragile screen could be better.",sound clarity,fragile screen,Positive
+CUST02087,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the storage capacity of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its software bugs.",storage capacity,software bugs,Mixed
+CUST01787,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its camera quality, though its weight bothers me sometimes.",camera quality,weight,Negative
+CUST00494,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its ease of use, though its size bothers me sometimes.",ease of use,size,Positive
+CUST00239,PROD008,Samsung Galaxy Tab S9 Ultra,"The performance on the Samsung Galaxy Tab S9 Ultra is outstanding, although the price could be better.",performance,price,Mixed
+CUST01331,PROD008,Samsung Galaxy Tab S9 Ultra,"The camera quality on the Samsung Galaxy Tab S9 Ultra is outstanding, although the battery drain could be better.",camera quality,battery drain,Positive
+CUST01055,PROD008,Samsung Galaxy Tab S9 Ultra,"While the camera quality of the Samsung Galaxy Tab S9 Ultra impressed me, the weight was underwhelming.",camera quality,weight,Positive
+CUST00378,PROD008,Samsung Galaxy Tab S9 Ultra,"The camera quality on the Samsung Galaxy Tab S9 Ultra is outstanding, although the overheating could be better.",camera quality,overheating,Positive
+CUST00110,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its battery life, though its short cable bothers me sometimes.",battery life,short cable,Positive
+CUST01823,PROD008,Samsung Galaxy Tab S9 Ultra,"While the speed of the Samsung Galaxy Tab S9 Ultra impressed me, the software bugs was underwhelming.",speed,software bugs,Positive
+CUST01476,PROD008,Samsung Galaxy Tab S9 Ultra,"The battery life on the Samsung Galaxy Tab S9 Ultra is outstanding, although the software bugs could be better.",battery life,software bugs,Positive
+CUST01056,PROD008,Samsung Galaxy Tab S9 Ultra,"While the storage capacity of the Samsung Galaxy Tab S9 Ultra impressed me, the battery drain was underwhelming.",storage capacity,battery drain,Negative
+CUST02052,PROD008,Samsung Galaxy Tab S9 Ultra,"While the design of the Samsung Galaxy Tab S9 Ultra impressed me, the heating issues was underwhelming.",design,heating issues,Positive
+CUST02003,PROD008,Samsung Galaxy Tab S9 Ultra,"While the durability of the Samsung Galaxy Tab S9 Ultra impressed me, the short cable was underwhelming.",durability,short cable,Mixed
+CUST00546,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its display, though its limited ports bothers me sometimes.",display,limited ports,Mixed
+CUST00400,PROD008,Samsung Galaxy Tab S9 Ultra,"The sound clarity on the Samsung Galaxy Tab S9 Ultra is outstanding, although the limited ports could be better.",sound clarity,limited ports,Positive
+CUST01709,PROD008,Samsung Galaxy Tab S9 Ultra,"The durability on the Samsung Galaxy Tab S9 Ultra is outstanding, although the limited ports could be better.",durability,limited ports,Positive
+CUST00819,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its speed, but the software bugs needs improvement.",speed,software bugs,Mixed
+CUST00319,PROD008,Samsung Galaxy Tab S9 Ultra,"While the build quality of the Samsung Galaxy Tab S9 Ultra impressed me, the heating issues was underwhelming.",build quality,heating issues,Positive
+CUST00139,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its battery life, but the limited ports needs improvement.",battery life,limited ports,Negative
+CUST00882,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its durability, but the limited ports needs improvement.",durability,limited ports,Positive
+CUST01936,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the storage capacity of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its battery drain.",storage capacity,battery drain,Positive
+CUST00665,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its ease of use, but the fragile screen needs improvement.",ease of use,fragile screen,Positive
+CUST01215,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its performance, but the software bugs needs improvement.",performance,software bugs,Positive
+CUST00243,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the performance of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its short cable.",performance,short cable,Positive
+CUST00428,PROD008,Samsung Galaxy Tab S9 Ultra,"The display on the Samsung Galaxy Tab S9 Ultra is outstanding, although the price could be better.",display,price,Positive
+CUST00301,PROD008,Samsung Galaxy Tab S9 Ultra,"While the camera quality of the Samsung Galaxy Tab S9 Ultra impressed me, the price was underwhelming.",camera quality,price,Negative
+CUST01714,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its sound clarity, though its battery drain bothers me sometimes.",sound clarity,battery drain,Positive
+CUST00476,PROD008,Samsung Galaxy Tab S9 Ultra,"While the build quality of the Samsung Galaxy Tab S9 Ultra impressed me, the software bugs was underwhelming.",build quality,software bugs,Positive
+CUST00970,PROD008,Samsung Galaxy Tab S9 Ultra,"The speed on the Samsung Galaxy Tab S9 Ultra is outstanding, although the slow updates could be better.",speed,slow updates,Positive
+CUST00889,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its ease of use, but the fragile screen needs improvement.",ease of use,fragile screen,Positive
+CUST01723,PROD008,Samsung Galaxy Tab S9 Ultra,"The ease of use on the Samsung Galaxy Tab S9 Ultra is outstanding, although the heating issues could be better.",ease of use,heating issues,Positive
+CUST01273,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its display, though its fragile screen bothers me sometimes.",display,fragile screen,Positive
+CUST00425,PROD008,Samsung Galaxy Tab S9 Ultra,"The design on the Samsung Galaxy Tab S9 Ultra is outstanding, although the battery drain could be better.",design,battery drain,Mixed
+CUST01608,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its design, though its overheating bothers me sometimes.",design,overheating,Negative
+CUST01673,PROD008,Samsung Galaxy Tab S9 Ultra,"The speed on the Samsung Galaxy Tab S9 Ultra is outstanding, although the limited ports could be better.",speed,limited ports,Negative
+CUST00437,PROD008,Samsung Galaxy Tab S9 Ultra,"While the durability of the Samsung Galaxy Tab S9 Ultra impressed me, the heating issues was underwhelming.",durability,heating issues,Negative
+CUST01993,PROD008,Samsung Galaxy Tab S9 Ultra,"The build quality on the Samsung Galaxy Tab S9 Ultra is outstanding, although the software bugs could be better.",build quality,software bugs,Positive
+CUST00935,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its design, but the size needs improvement.",design,size,Positive
+CUST01081,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its storage capacity, but the slow updates needs improvement.",storage capacity,slow updates,Negative
+CUST00775,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its design, but the overheating needs improvement.",design,overheating,Mixed
+CUST01824,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its speed, though its weight bothers me sometimes.",speed,weight,Positive
+CUST01499,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its sound clarity, though its limited ports bothers me sometimes.",sound clarity,limited ports,Mixed
+CUST00883,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the durability of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its short cable.",durability,short cable,Mixed
+CUST00140,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its sound clarity, though its short cable bothers me sometimes.",sound clarity,short cable,Positive
+CUST00151,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its build quality, but the short cable needs improvement.",build quality,short cable,Positive
+CUST00153,PROD008,Samsung Galaxy Tab S9 Ultra,"While the battery life of the Samsung Galaxy Tab S9 Ultra impressed me, the fragile screen was underwhelming.",battery life,fragile screen,Positive
+CUST00867,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its sound clarity, but the price needs improvement.",sound clarity,price,Positive
+CUST01047,PROD008,Samsung Galaxy Tab S9 Ultra,"While the design of the Samsung Galaxy Tab S9 Ultra impressed me, the overheating was underwhelming.",design,overheating,Mixed
+CUST01633,PROD008,Samsung Galaxy Tab S9 Ultra,"The ease of use on the Samsung Galaxy Tab S9 Ultra is outstanding, although the heating issues could be better.",ease of use,heating issues,Negative
+CUST01501,PROD008,Samsung Galaxy Tab S9 Ultra,"The display on the Samsung Galaxy Tab S9 Ultra is outstanding, although the overheating could be better.",display,overheating,Positive
+CUST00589,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the sound clarity of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its software bugs.",sound clarity,software bugs,Negative
+CUST01598,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its storage capacity, though its weight bothers me sometimes.",storage capacity,weight,Mixed
+CUST01886,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its camera quality, though its short cable bothers me sometimes.",camera quality,short cable,Positive
+CUST01590,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its speed, though its fragile screen bothers me sometimes.",speed,fragile screen,Negative
+CUST01355,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the speed of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its battery drain.",speed,battery drain,Negative
+CUST00720,PROD008,Samsung Galaxy Tab S9 Ultra,"The build quality on the Samsung Galaxy Tab S9 Ultra is outstanding, although the battery drain could be better.",build quality,battery drain,Positive
+CUST01770,PROD008,Samsung Galaxy Tab S9 Ultra,"While the sound clarity of the Samsung Galaxy Tab S9 Ultra impressed me, the weight was underwhelming.",sound clarity,weight,Positive
+CUST01317,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the battery life of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its price.",battery life,price,Positive
+CUST00429,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its storage capacity, but the battery drain needs improvement.",storage capacity,battery drain,Mixed
+CUST01900,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the build quality of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its size.",build quality,size,Positive
+CUST00481,PROD008,Samsung Galaxy Tab S9 Ultra,"The speed on the Samsung Galaxy Tab S9 Ultra is outstanding, although the price could be better.",speed,price,Positive
+CUST01069,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its storage capacity, though its size bothers me sometimes.",storage capacity,size,Positive
+CUST01030,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the camera quality of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its size.",camera quality,size,Positive
+CUST01193,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its durability, but the heating issues needs improvement.",durability,heating issues,Positive
+CUST01159,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its durability, but the short cable needs improvement.",durability,short cable,Positive
+CUST01610,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its design, but the weight needs improvement.",design,weight,Negative
+CUST01441,PROD008,Samsung Galaxy Tab S9 Ultra,"The display on the Samsung Galaxy Tab S9 Ultra is outstanding, although the fragile screen could be better.",display,fragile screen,Positive
+CUST01988,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the durability of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its price.",durability,price,Positive
+CUST01933,PROD008,Samsung Galaxy Tab S9 Ultra,"While the design of the Samsung Galaxy Tab S9 Ultra impressed me, the short cable was underwhelming.",design,short cable,Mixed
+CUST01940,PROD008,Samsung Galaxy Tab S9 Ultra,"The camera quality on the Samsung Galaxy Tab S9 Ultra is outstanding, although the limited ports could be better.",camera quality,limited ports,Mixed
+CUST02089,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the speed of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its weight.",speed,weight,Positive
+CUST01692,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its durability, though its battery drain bothers me sometimes.",durability,battery drain,Positive
+CUST00117,PROD008,Samsung Galaxy Tab S9 Ultra,"While the battery life of the Samsung Galaxy Tab S9 Ultra impressed me, the slow updates was underwhelming.",battery life,slow updates,Positive
+CUST02016,PROD008,Samsung Galaxy Tab S9 Ultra,"I really love the sound clarity of my Samsung Galaxy Tab S9 Ultra, but I'm a bit disappointed with its short cable.",sound clarity,short cable,Positive
+CUST02062,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its speed, but the software bugs needs improvement.",speed,software bugs,Mixed
+CUST01398,PROD008,Samsung Galaxy Tab S9 Ultra,"I enjoy using the Samsung Galaxy Tab S9 Ultra because of its camera quality, though its weight bothers me sometimes.",camera quality,weight,Positive
+CUST00914,PROD008,Samsung Galaxy Tab S9 Ultra,"My experience with the Samsung Galaxy Tab S9 Ultra has been mostly great due to its camera quality, but the fragile screen needs improvement.",camera quality,fragile screen,Positive
+CUST02041,PROD009,Sony PlayStation 5 Slim,"I really love the build quality of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its heating issues.",build quality,heating issues,Positive
+CUST01980,PROD009,Sony PlayStation 5 Slim,"The build quality on the Sony PlayStation 5 Slim is outstanding, although the limited ports could be better.",build quality,limited ports,Mixed
+CUST00748,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its sound clarity, though its battery drain bothers me sometimes.",sound clarity,battery drain,Positive
+CUST02077,PROD009,Sony PlayStation 5 Slim,"The display on the Sony PlayStation 5 Slim is outstanding, although the limited ports could be better.",display,limited ports,Negative
+CUST00934,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its design, though its heating issues bothers me sometimes.",design,heating issues,Positive
+CUST00132,PROD009,Sony PlayStation 5 Slim,"While the ease of use of the Sony PlayStation 5 Slim impressed me, the size was underwhelming.",ease of use,size,Positive
+CUST01365,PROD009,Sony PlayStation 5 Slim,"I really love the design of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its software bugs.",design,software bugs,Positive
+CUST01401,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its build quality, though its overheating bothers me sometimes.",build quality,overheating,Positive
+CUST00697,PROD009,Sony PlayStation 5 Slim,"The display on the Sony PlayStation 5 Slim is outstanding, although the software bugs could be better.",display,software bugs,Positive
+CUST00995,PROD009,Sony PlayStation 5 Slim,"I really love the design of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its software bugs.",design,software bugs,Mixed
+CUST00215,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its storage capacity, but the weight needs improvement.",storage capacity,weight,Positive
+CUST01384,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its speed, but the weight needs improvement.",speed,weight,Negative
+CUST01104,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its performance, but the fragile screen needs improvement.",performance,fragile screen,Negative
+CUST01118,PROD009,Sony PlayStation 5 Slim,"I really love the display of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its short cable.",display,short cable,Positive
+CUST01798,PROD009,Sony PlayStation 5 Slim,"While the display of the Sony PlayStation 5 Slim impressed me, the weight was underwhelming.",display,weight,Mixed
+CUST01807,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its build quality, though its size bothers me sometimes.",build quality,size,Mixed
+CUST02038,PROD009,Sony PlayStation 5 Slim,"The performance on the Sony PlayStation 5 Slim is outstanding, although the limited ports could be better.",performance,limited ports,Positive
+CUST00745,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its build quality, but the price needs improvement.",build quality,price,Positive
+CUST01000,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its build quality, but the heating issues needs improvement.",build quality,heating issues,Mixed
+CUST01616,PROD009,Sony PlayStation 5 Slim,"The performance on the Sony PlayStation 5 Slim is outstanding, although the heating issues could be better.",performance,heating issues,Negative
+CUST02033,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its design, though its limited ports bothers me sometimes.",design,limited ports,Positive
+CUST00703,PROD009,Sony PlayStation 5 Slim,"I really love the camera quality of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its short cable.",camera quality,short cable,Positive
+CUST01399,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its sound clarity, but the software bugs needs improvement.",sound clarity,software bugs,Positive
+CUST00424,PROD009,Sony PlayStation 5 Slim,"The build quality on the Sony PlayStation 5 Slim is outstanding, although the weight could be better.",build quality,weight,Mixed
+CUST01291,PROD009,Sony PlayStation 5 Slim,"I really love the storage capacity of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its limited ports.",storage capacity,limited ports,Positive
+CUST01420,PROD009,Sony PlayStation 5 Slim,"While the storage capacity of the Sony PlayStation 5 Slim impressed me, the heating issues was underwhelming.",storage capacity,heating issues,Mixed
+CUST00401,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its storage capacity, but the short cable needs improvement.",storage capacity,short cable,Positive
+CUST01554,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its build quality, though its software bugs bothers me sometimes.",build quality,software bugs,Positive
+CUST01797,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its build quality, but the fragile screen needs improvement.",build quality,fragile screen,Positive
+CUST00559,PROD009,Sony PlayStation 5 Slim,"The battery life on the Sony PlayStation 5 Slim is outstanding, although the software bugs could be better.",battery life,software bugs,Positive
+CUST00702,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its sound clarity, though its fragile screen bothers me sometimes.",sound clarity,fragile screen,Mixed
+CUST00643,PROD009,Sony PlayStation 5 Slim,"I really love the ease of use of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its fragile screen.",ease of use,fragile screen,Mixed
+CUST01619,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its build quality, but the battery drain needs improvement.",build quality,battery drain,Positive
+CUST01531,PROD009,Sony PlayStation 5 Slim,"The storage capacity on the Sony PlayStation 5 Slim is outstanding, although the battery drain could be better.",storage capacity,battery drain,Negative
+CUST01038,PROD009,Sony PlayStation 5 Slim,"While the display of the Sony PlayStation 5 Slim impressed me, the battery drain was underwhelming.",display,battery drain,Mixed
+CUST01513,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its build quality, but the heating issues needs improvement.",build quality,heating issues,Mixed
+CUST00863,PROD009,Sony PlayStation 5 Slim,"While the durability of the Sony PlayStation 5 Slim impressed me, the limited ports was underwhelming.",durability,limited ports,Positive
+CUST01129,PROD009,Sony PlayStation 5 Slim,"While the build quality of the Sony PlayStation 5 Slim impressed me, the short cable was underwhelming.",build quality,short cable,Mixed
+CUST00777,PROD009,Sony PlayStation 5 Slim,"I really love the build quality of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its price.",build quality,price,Negative
+CUST01332,PROD009,Sony PlayStation 5 Slim,"I really love the durability of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its price.",durability,price,Mixed
+CUST01170,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its battery life, though its short cable bothers me sometimes.",battery life,short cable,Positive
+CUST01006,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its build quality, but the software bugs needs improvement.",build quality,software bugs,Positive
+CUST01117,PROD009,Sony PlayStation 5 Slim,"While the storage capacity of the Sony PlayStation 5 Slim impressed me, the software bugs was underwhelming.",storage capacity,software bugs,Positive
+CUST00926,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its design, though its software bugs bothers me sometimes.",design,software bugs,Negative
+CUST00498,PROD009,Sony PlayStation 5 Slim,"I really love the sound clarity of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its battery drain.",sound clarity,battery drain,Mixed
+CUST01021,PROD009,Sony PlayStation 5 Slim,"The battery life on the Sony PlayStation 5 Slim is outstanding, although the battery drain could be better.",battery life,battery drain,Negative
+CUST01455,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its camera quality, though its fragile screen bothers me sometimes.",camera quality,fragile screen,Positive
+CUST01001,PROD009,Sony PlayStation 5 Slim,"I really love the speed of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its limited ports.",speed,limited ports,Positive
+CUST00285,PROD009,Sony PlayStation 5 Slim,"The speed on the Sony PlayStation 5 Slim is outstanding, although the software bugs could be better.",speed,software bugs,Positive
+CUST01885,PROD009,Sony PlayStation 5 Slim,"While the storage capacity of the Sony PlayStation 5 Slim impressed me, the price was underwhelming.",storage capacity,price,Positive
+CUST00350,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its camera quality, though its weight bothers me sometimes.",camera quality,weight,Mixed
+CUST00554,PROD009,Sony PlayStation 5 Slim,"While the battery life of the Sony PlayStation 5 Slim impressed me, the software bugs was underwhelming.",battery life,software bugs,Positive
+CUST00735,PROD009,Sony PlayStation 5 Slim,"The build quality on the Sony PlayStation 5 Slim is outstanding, although the weight could be better.",build quality,weight,Positive
+CUST01670,PROD009,Sony PlayStation 5 Slim,"I really love the design of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its limited ports.",design,limited ports,Positive
+CUST01491,PROD009,Sony PlayStation 5 Slim,"The ease of use on the Sony PlayStation 5 Slim is outstanding, although the battery drain could be better.",ease of use,battery drain,Negative
+CUST01214,PROD009,Sony PlayStation 5 Slim,"The durability on the Sony PlayStation 5 Slim is outstanding, although the limited ports could be better.",durability,limited ports,Mixed
+CUST01142,PROD009,Sony PlayStation 5 Slim,"While the design of the Sony PlayStation 5 Slim impressed me, the heating issues was underwhelming.",design,heating issues,Positive
+CUST00597,PROD009,Sony PlayStation 5 Slim,"While the display of the Sony PlayStation 5 Slim impressed me, the limited ports was underwhelming.",display,limited ports,Negative
+CUST01416,PROD009,Sony PlayStation 5 Slim,"I really love the storage capacity of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its limited ports.",storage capacity,limited ports,Positive
+CUST00162,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its speed, though its battery drain bothers me sometimes.",speed,battery drain,Positive
+CUST00341,PROD009,Sony PlayStation 5 Slim,"I really love the durability of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its fragile screen.",durability,fragile screen,Positive
+CUST00418,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its sound clarity, but the limited ports needs improvement.",sound clarity,limited ports,Negative
+CUST01991,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its battery life, though its battery drain bothers me sometimes.",battery life,battery drain,Positive
+CUST01459,PROD009,Sony PlayStation 5 Slim,"While the durability of the Sony PlayStation 5 Slim impressed me, the overheating was underwhelming.",durability,overheating,Mixed
+CUST00520,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its camera quality, though its weight bothers me sometimes.",camera quality,weight,Positive
+CUST00170,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its battery life, though its weight bothers me sometimes.",battery life,weight,Negative
+CUST00944,PROD009,Sony PlayStation 5 Slim,"While the durability of the Sony PlayStation 5 Slim impressed me, the short cable was underwhelming.",durability,short cable,Negative
+CUST01358,PROD009,Sony PlayStation 5 Slim,"While the build quality of the Sony PlayStation 5 Slim impressed me, the weight was underwhelming.",build quality,weight,Negative
+CUST00379,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its ease of use, though its overheating bothers me sometimes.",ease of use,overheating,Mixed
+CUST01898,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its design, though its short cable bothers me sometimes.",design,short cable,Negative
+CUST00440,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its sound clarity, but the battery drain needs improvement.",sound clarity,battery drain,Positive
+CUST01631,PROD009,Sony PlayStation 5 Slim,"I really love the storage capacity of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its software bugs.",storage capacity,software bugs,Mixed
+CUST01306,PROD009,Sony PlayStation 5 Slim,"While the design of the Sony PlayStation 5 Slim impressed me, the heating issues was underwhelming.",design,heating issues,Mixed
+CUST01960,PROD009,Sony PlayStation 5 Slim,"While the sound clarity of the Sony PlayStation 5 Slim impressed me, the heating issues was underwhelming.",sound clarity,heating issues,Mixed
+CUST00749,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its storage capacity, but the overheating needs improvement.",storage capacity,overheating,Positive
+CUST01452,PROD009,Sony PlayStation 5 Slim,"I really love the battery life of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its weight.",battery life,weight,Mixed
+CUST00218,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its design, but the short cable needs improvement.",design,short cable,Positive
+CUST01370,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its battery life, though its size bothers me sometimes.",battery life,size,Positive
+CUST01241,PROD009,Sony PlayStation 5 Slim,"While the speed of the Sony PlayStation 5 Slim impressed me, the short cable was underwhelming.",speed,short cable,Positive
+CUST00173,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its camera quality, though its fragile screen bothers me sometimes.",camera quality,fragile screen,Positive
+CUST01982,PROD009,Sony PlayStation 5 Slim,"The display on the Sony PlayStation 5 Slim is outstanding, although the weight could be better.",display,weight,Negative
+CUST00855,PROD009,Sony PlayStation 5 Slim,"While the performance of the Sony PlayStation 5 Slim impressed me, the weight was underwhelming.",performance,weight,Negative
+CUST02060,PROD009,Sony PlayStation 5 Slim,"While the speed of the Sony PlayStation 5 Slim impressed me, the price was underwhelming.",speed,price,Positive
+CUST00628,PROD009,Sony PlayStation 5 Slim,"I really love the storage capacity of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its price.",storage capacity,price,Negative
+CUST01746,PROD009,Sony PlayStation 5 Slim,"I really love the display of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its software bugs.",display,software bugs,Mixed
+CUST01556,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its performance, though its slow updates bothers me sometimes.",performance,slow updates,Positive
+CUST00267,PROD009,Sony PlayStation 5 Slim,"The battery life on the Sony PlayStation 5 Slim is outstanding, although the short cable could be better.",battery life,short cable,Mixed
+CUST00560,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its sound clarity, but the heating issues needs improvement.",sound clarity,heating issues,Mixed
+CUST01630,PROD009,Sony PlayStation 5 Slim,"I really love the storage capacity of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its short cable.",storage capacity,short cable,Mixed
+CUST01609,PROD009,Sony PlayStation 5 Slim,"The design on the Sony PlayStation 5 Slim is outstanding, although the short cable could be better.",design,short cable,Mixed
+CUST00684,PROD009,Sony PlayStation 5 Slim,"While the storage capacity of the Sony PlayStation 5 Slim impressed me, the size was underwhelming.",storage capacity,size,Positive
+CUST00191,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its speed, though its overheating bothers me sometimes.",speed,overheating,Positive
+CUST01863,PROD009,Sony PlayStation 5 Slim,"While the battery life of the Sony PlayStation 5 Slim impressed me, the overheating was underwhelming.",battery life,overheating,Mixed
+CUST00857,PROD009,Sony PlayStation 5 Slim,"I really love the battery life of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its limited ports.",battery life,limited ports,Mixed
+CUST01963,PROD009,Sony PlayStation 5 Slim,"I really love the sound clarity of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its price.",sound clarity,price,Positive
+CUST01880,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its sound clarity, but the software bugs needs improvement.",sound clarity,software bugs,Positive
+CUST01962,PROD009,Sony PlayStation 5 Slim,"While the build quality of the Sony PlayStation 5 Slim impressed me, the battery drain was underwhelming.",build quality,battery drain,Positive
+CUST01282,PROD009,Sony PlayStation 5 Slim,"I really love the ease of use of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its short cable.",ease of use,short cable,Positive
+CUST00184,PROD009,Sony PlayStation 5 Slim,"My experience with the Sony PlayStation 5 Slim has been mostly great due to its sound clarity, but the battery drain needs improvement.",sound clarity,battery drain,Negative
+CUST00563,PROD009,Sony PlayStation 5 Slim,"I really love the sound clarity of my Sony PlayStation 5 Slim, but I'm a bit disappointed with its weight.",sound clarity,weight,Negative
+CUST00859,PROD009,Sony PlayStation 5 Slim,"I enjoy using the Sony PlayStation 5 Slim because of its durability, though its fragile screen bothers me sometimes.",durability,fragile screen,Positive
+CUST01637,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its performance, though its size bothers me sometimes.",performance,size,Mixed
+CUST00793,PROD010,Nikon Z8 Mirrorless Camera,"While the storage capacity of the Nikon Z8 Mirrorless Camera impressed me, the slow updates was underwhelming.",storage capacity,slow updates,Positive
+CUST00513,PROD010,Nikon Z8 Mirrorless Camera,"While the camera quality of the Nikon Z8 Mirrorless Camera impressed me, the software bugs was underwhelming.",camera quality,software bugs,Positive
+CUST00604,PROD010,Nikon Z8 Mirrorless Camera,"While the speed of the Nikon Z8 Mirrorless Camera impressed me, the overheating was underwhelming.",speed,overheating,Positive
+CUST01385,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its camera quality, though its overheating bothers me sometimes.",camera quality,overheating,Positive
+CUST01330,PROD010,Nikon Z8 Mirrorless Camera,"The display on the Nikon Z8 Mirrorless Camera is outstanding, although the weight could be better.",display,weight,Positive
+CUST01222,PROD010,Nikon Z8 Mirrorless Camera,"The storage capacity on the Nikon Z8 Mirrorless Camera is outstanding, although the size could be better.",storage capacity,size,Positive
+CUST01183,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its storage capacity, though its heating issues bothers me sometimes.",storage capacity,heating issues,Positive
+CUST00430,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its storage capacity, though its weight bothers me sometimes.",storage capacity,weight,Positive
+CUST00119,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its storage capacity, but the price needs improvement.",storage capacity,price,Positive
+CUST00915,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its camera quality, though its software bugs bothers me sometimes.",camera quality,software bugs,Positive
+CUST00741,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its performance, though its software bugs bothers me sometimes.",performance,software bugs,Positive
+CUST01649,PROD010,Nikon Z8 Mirrorless Camera,"While the battery life of the Nikon Z8 Mirrorless Camera impressed me, the limited ports was underwhelming.",battery life,limited ports,Positive
+CUST01862,PROD010,Nikon Z8 Mirrorless Camera,"The storage capacity on the Nikon Z8 Mirrorless Camera is outstanding, although the fragile screen could be better.",storage capacity,fragile screen,Mixed
+CUST00147,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its design, though its heating issues bothers me sometimes.",design,heating issues,Mixed
+CUST00538,PROD010,Nikon Z8 Mirrorless Camera,"While the performance of the Nikon Z8 Mirrorless Camera impressed me, the heating issues was underwhelming.",performance,heating issues,Negative
+CUST00392,PROD010,Nikon Z8 Mirrorless Camera,"The ease of use on the Nikon Z8 Mirrorless Camera is outstanding, although the fragile screen could be better.",ease of use,fragile screen,Positive
+CUST00606,PROD010,Nikon Z8 Mirrorless Camera,"I really love the battery life of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its heating issues.",battery life,heating issues,Positive
+CUST00689,PROD010,Nikon Z8 Mirrorless Camera,"I really love the design of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its fragile screen.",design,fragile screen,Negative
+CUST00441,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its performance, but the price needs improvement.",performance,price,Positive
+CUST01763,PROD010,Nikon Z8 Mirrorless Camera,"The sound clarity on the Nikon Z8 Mirrorless Camera is outstanding, although the price could be better.",sound clarity,price,Positive
+CUST00524,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its display, but the weight needs improvement.",display,weight,Negative
+CUST00953,PROD010,Nikon Z8 Mirrorless Camera,"I really love the camera quality of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its battery drain.",camera quality,battery drain,Negative
+CUST00446,PROD010,Nikon Z8 Mirrorless Camera,"The ease of use on the Nikon Z8 Mirrorless Camera is outstanding, although the software bugs could be better.",ease of use,software bugs,Mixed
+CUST00947,PROD010,Nikon Z8 Mirrorless Camera,"While the design of the Nikon Z8 Mirrorless Camera impressed me, the price was underwhelming.",design,price,Positive
+CUST02100,PROD010,Nikon Z8 Mirrorless Camera,"I really love the camera quality of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its size.",camera quality,size,Positive
+CUST01007,PROD010,Nikon Z8 Mirrorless Camera,"While the performance of the Nikon Z8 Mirrorless Camera impressed me, the overheating was underwhelming.",performance,overheating,Positive
+CUST01396,PROD010,Nikon Z8 Mirrorless Camera,"I really love the durability of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its price.",durability,price,Positive
+CUST00310,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its durability, but the fragile screen needs improvement.",durability,fragile screen,Positive
+CUST00539,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its camera quality, but the slow updates needs improvement.",camera quality,slow updates,Mixed
+CUST00508,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its battery life, though its software bugs bothers me sometimes.",battery life,software bugs,Positive
+CUST01791,PROD010,Nikon Z8 Mirrorless Camera,"The performance on the Nikon Z8 Mirrorless Camera is outstanding, although the heating issues could be better.",performance,heating issues,Negative
+CUST00187,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its speed, but the limited ports needs improvement.",speed,limited ports,Positive
+CUST00728,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its performance, though its battery drain bothers me sometimes.",performance,battery drain,Positive
+CUST01865,PROD010,Nikon Z8 Mirrorless Camera,"The ease of use on the Nikon Z8 Mirrorless Camera is outstanding, although the short cable could be better.",ease of use,short cable,Positive
+CUST00903,PROD010,Nikon Z8 Mirrorless Camera,"While the durability of the Nikon Z8 Mirrorless Camera impressed me, the slow updates was underwhelming.",durability,slow updates,Positive
+CUST01720,PROD010,Nikon Z8 Mirrorless Camera,"While the storage capacity of the Nikon Z8 Mirrorless Camera impressed me, the weight was underwhelming.",storage capacity,weight,Positive
+CUST00403,PROD010,Nikon Z8 Mirrorless Camera,"While the speed of the Nikon Z8 Mirrorless Camera impressed me, the overheating was underwhelming.",speed,overheating,Mixed
+CUST01362,PROD010,Nikon Z8 Mirrorless Camera,"While the camera quality of the Nikon Z8 Mirrorless Camera impressed me, the short cable was underwhelming.",camera quality,short cable,Mixed
+CUST00977,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its sound clarity, but the size needs improvement.",sound clarity,size,Positive
+CUST00836,PROD010,Nikon Z8 Mirrorless Camera,"While the build quality of the Nikon Z8 Mirrorless Camera impressed me, the price was underwhelming.",build quality,price,Negative
+CUST00853,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its battery life, though its price bothers me sometimes.",battery life,price,Positive
+CUST01742,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its storage capacity, though its software bugs bothers me sometimes.",storage capacity,software bugs,Positive
+CUST00952,PROD010,Nikon Z8 Mirrorless Camera,"While the ease of use of the Nikon Z8 Mirrorless Camera impressed me, the battery drain was underwhelming.",ease of use,battery drain,Negative
+CUST01382,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its camera quality, but the weight needs improvement.",camera quality,weight,Positive
+CUST01147,PROD010,Nikon Z8 Mirrorless Camera,"While the build quality of the Nikon Z8 Mirrorless Camera impressed me, the overheating was underwhelming.",build quality,overheating,Positive
+CUST01803,PROD010,Nikon Z8 Mirrorless Camera,"While the display of the Nikon Z8 Mirrorless Camera impressed me, the limited ports was underwhelming.",display,limited ports,Positive
+CUST01492,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its ease of use, though its fragile screen bothers me sometimes.",ease of use,fragile screen,Mixed
+CUST00965,PROD010,Nikon Z8 Mirrorless Camera,"While the design of the Nikon Z8 Mirrorless Camera impressed me, the short cable was underwhelming.",design,short cable,Mixed
+CUST01544,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its design, but the weight needs improvement.",design,weight,Positive
+CUST00105,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its performance, though its battery drain bothers me sometimes.",performance,battery drain,Mixed
+CUST00214,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its battery life, but the limited ports needs improvement.",battery life,limited ports,Positive
+CUST02059,PROD010,Nikon Z8 Mirrorless Camera,"I really love the build quality of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its limited ports.",build quality,limited ports,Positive
+CUST01716,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its display, though its short cable bothers me sometimes.",display,short cable,Positive
+CUST00141,PROD010,Nikon Z8 Mirrorless Camera,"I really love the durability of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its slow updates.",durability,slow updates,Positive
+CUST01934,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its display, but the weight needs improvement.",display,weight,Positive
+CUST00825,PROD010,Nikon Z8 Mirrorless Camera,"The durability on the Nikon Z8 Mirrorless Camera is outstanding, although the software bugs could be better.",durability,software bugs,Positive
+CUST01526,PROD010,Nikon Z8 Mirrorless Camera,"The camera quality on the Nikon Z8 Mirrorless Camera is outstanding, although the weight could be better.",camera quality,weight,Negative
+CUST01546,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its durability, though its heating issues bothers me sometimes.",durability,heating issues,Positive
+CUST00254,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its build quality, though its software bugs bothers me sometimes.",build quality,software bugs,Mixed
+CUST00415,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its battery life, though its short cable bothers me sometimes.",battery life,short cable,Positive
+CUST01480,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its performance, though its fragile screen bothers me sometimes.",performance,fragile screen,Mixed
+CUST00515,PROD010,Nikon Z8 Mirrorless Camera,"I really love the sound clarity of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its heating issues.",sound clarity,heating issues,Mixed
+CUST01629,PROD010,Nikon Z8 Mirrorless Camera,"I really love the camera quality of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its battery drain.",camera quality,battery drain,Negative
+CUST00222,PROD010,Nikon Z8 Mirrorless Camera,"I really love the durability of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its weight.",durability,weight,Positive
+CUST00163,PROD010,Nikon Z8 Mirrorless Camera,"I really love the storage capacity of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its price.",storage capacity,price,Negative
+CUST00435,PROD010,Nikon Z8 Mirrorless Camera,"I really love the battery life of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its heating issues.",battery life,heating issues,Positive
+CUST00586,PROD010,Nikon Z8 Mirrorless Camera,"The design on the Nikon Z8 Mirrorless Camera is outstanding, although the price could be better.",design,price,Positive
+CUST01883,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its performance, but the heating issues needs improvement.",performance,heating issues,Mixed
+CUST00925,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its camera quality, though its overheating bothers me sometimes.",camera quality,overheating,Positive
+CUST01996,PROD010,Nikon Z8 Mirrorless Camera,"While the build quality of the Nikon Z8 Mirrorless Camera impressed me, the overheating was underwhelming.",build quality,overheating,Positive
+CUST00722,PROD010,Nikon Z8 Mirrorless Camera,"I really love the sound clarity of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its heating issues.",sound clarity,heating issues,Negative
+CUST01174,PROD010,Nikon Z8 Mirrorless Camera,"I really love the speed of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its short cable.",speed,short cable,Negative
+CUST01326,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its performance, though its software bugs bothers me sometimes.",performance,software bugs,Negative
+CUST02068,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its performance, though its overheating bothers me sometimes.",performance,overheating,Positive
+CUST00224,PROD010,Nikon Z8 Mirrorless Camera,"While the sound clarity of the Nikon Z8 Mirrorless Camera impressed me, the software bugs was underwhelming.",sound clarity,software bugs,Mixed
+CUST00887,PROD010,Nikon Z8 Mirrorless Camera,"I really love the design of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its slow updates.",design,slow updates,Positive
+CUST00605,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its speed, but the slow updates needs improvement.",speed,slow updates,Positive
+CUST00311,PROD010,Nikon Z8 Mirrorless Camera,"While the battery life of the Nikon Z8 Mirrorless Camera impressed me, the weight was underwhelming.",battery life,weight,Positive
+CUST01023,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its durability, though its fragile screen bothers me sometimes.",durability,fragile screen,Positive
+CUST00502,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its design, but the fragile screen needs improvement.",design,fragile screen,Mixed
+CUST01639,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its battery life, though its price bothers me sometimes.",battery life,price,Mixed
+CUST00780,PROD010,Nikon Z8 Mirrorless Camera,"The performance on the Nikon Z8 Mirrorless Camera is outstanding, although the fragile screen could be better.",performance,fragile screen,Negative
+CUST01224,PROD010,Nikon Z8 Mirrorless Camera,"While the display of the Nikon Z8 Mirrorless Camera impressed me, the slow updates was underwhelming.",display,slow updates,Mixed
+CUST01339,PROD010,Nikon Z8 Mirrorless Camera,"The storage capacity on the Nikon Z8 Mirrorless Camera is outstanding, although the software bugs could be better.",storage capacity,software bugs,Positive
+CUST00760,PROD010,Nikon Z8 Mirrorless Camera,"The durability on the Nikon Z8 Mirrorless Camera is outstanding, although the price could be better.",durability,price,Negative
+CUST01550,PROD010,Nikon Z8 Mirrorless Camera,"While the speed of the Nikon Z8 Mirrorless Camera impressed me, the price was underwhelming.",speed,price,Positive
+CUST01814,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its display, though its overheating bothers me sometimes.",display,overheating,Mixed
+CUST01152,PROD010,Nikon Z8 Mirrorless Camera,"I really love the build quality of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its weight.",build quality,weight,Negative
+CUST00385,PROD010,Nikon Z8 Mirrorless Camera,"I really love the battery life of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its overheating.",battery life,overheating,Mixed
+CUST01679,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its display, though its size bothers me sometimes.",display,size,Mixed
+CUST00732,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its speed, though its battery drain bothers me sometimes.",speed,battery drain,Positive
+CUST01473,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its display, though its fragile screen bothers me sometimes.",display,fragile screen,Negative
+CUST00715,PROD010,Nikon Z8 Mirrorless Camera,"I really love the build quality of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its heating issues.",build quality,heating issues,Positive
+CUST00663,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its ease of use, though its size bothers me sometimes.",ease of use,size,Positive
+CUST01783,PROD010,Nikon Z8 Mirrorless Camera,"The build quality on the Nikon Z8 Mirrorless Camera is outstanding, although the fragile screen could be better.",build quality,fragile screen,Positive
+CUST00343,PROD010,Nikon Z8 Mirrorless Camera,"I really love the performance of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its heating issues.",performance,heating issues,Mixed
+CUST00352,PROD010,Nikon Z8 Mirrorless Camera,"While the ease of use of the Nikon Z8 Mirrorless Camera impressed me, the overheating was underwhelming.",ease of use,overheating,Positive
+CUST02093,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its storage capacity, but the limited ports needs improvement.",storage capacity,limited ports,Positive
+CUST01764,PROD010,Nikon Z8 Mirrorless Camera,"I enjoy using the Nikon Z8 Mirrorless Camera because of its battery life, though its slow updates bothers me sometimes.",battery life,slow updates,Positive
+CUST00314,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its performance, but the heating issues needs improvement.",performance,heating issues,Negative
+CUST00486,PROD010,Nikon Z8 Mirrorless Camera,"The camera quality on the Nikon Z8 Mirrorless Camera is outstanding, although the slow updates could be better.",camera quality,slow updates,Positive
+CUST01088,PROD010,Nikon Z8 Mirrorless Camera,"My experience with the Nikon Z8 Mirrorless Camera has been mostly great due to its sound clarity, but the fragile screen needs improvement.",sound clarity,fragile screen,Negative
+CUST01393,PROD010,Nikon Z8 Mirrorless Camera,"I really love the durability of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its fragile screen.",durability,fragile screen,Mixed
+CUST01091,PROD010,Nikon Z8 Mirrorless Camera,"I really love the ease of use of my Nikon Z8 Mirrorless Camera, but I'm a bit disappointed with its overheating.",ease of use,overheating,Negative
